@@ -14,20 +14,292 @@
 	<link>http://www.meneame.net</link>
 	<image><title>Menéame: publicadas</title><link>http://www.meneame.net</link><url>http://cdn.mnmstatic.net/img/mnm/eli-rss.png</url></image>
 	<description>Sitio colaborativo de publicación y comunicación entre blogs</description>
-	<pubDate>Tue, 01 Sep 2026 12:35:04 +0000</pubDate>
+	<pubDate>Tue, 01 Sep 2026 16:40:02 +0000</pubDate>
 	<generator>http://blog.meneame.net/</generator>
 	<language>es</language>
 	<atom:link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+	<item>
+		<meneame:link_id>4212136</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Ratoncolorao</meneame:user>
+		<meneame:clicks>67</meneame:clicks>
+		<meneame:votes>64</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>429</meneame:karma>
+		<meneame:comments>22</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/jueza-granada-no-ve-delito-uso-supuestas-armas-prohibidas-contra?utm_source=meneame_rss</meneame:url>
+		<title>Una jueza de Granada no ve delito en el uso de supuestas armas prohibidas contra jóvenes antifascistas en un mitin de Abascal en Granada</title>
+		<link>https://www.meneame.net/story/jueza-granada-no-ve-delito-uso-supuestas-armas-prohibidas-contra</link>
+		<comments>https://www.meneame.net/story/jueza-granada-no-ve-delito-uso-supuestas-armas-prohibidas-contra</comments>
+		<pubDate>Tue, 01 Sep 2026 16:40:02 +0000</pubDate>
+		<dc:creator>Ratoncolorao</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[jueza]]></category>
+		<category><![CDATA[granada]]></category>
+		<category><![CDATA[antifascistas]]></category>
+		<category><![CDATA[armas]]></category>
+		<category><![CDATA[vox]]></category>
+		<category><![CDATA[abascal]]></category>
+		<category><![CDATA[granada]]></category>
+		<guid>https://www.meneame.net/story/jueza-granada-no-ve-delito-uso-supuestas-armas-prohibidas-contra</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212136.webp?1788250206' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Alega que la concentración de protesta carecía de autorización y desestima las diligencias solicitadas por la Asociación Pro Derechos Humanos de Andalucía. La Fiscalía archiva otra demanda de Podemos por los mismos hechos.</p><p><strong>etiquetas</strong>: jueza, granada, antifascistas, armas, vox, abascal, granada</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212136" >noticia original</a> (www.publico.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212136.webp?1788250206" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212136</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212250</meneame:link_id>
+		<meneame:sub>Economía</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>cocolisto</meneame:user>
+		<meneame:clicks>582</meneame:clicks>
+		<meneame:votes>106</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>979</meneame:karma>
+		<meneame:comments>67</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/von-der-leyen-pone-foco-cuentas-bancarias-europeos-europa-poner?utm_source=meneame_rss</meneame:url>
+		<title>Von der Leyen pone el foco en las cuentas bancarias de los europeos: &#34;Europa necesita poner estos ahorros al servicio de sus empresas&#34;</title>
+		<link>https://www.meneame.net/story/von-der-leyen-pone-foco-cuentas-bancarias-europeos-europa-poner</link>
+		<comments>https://www.meneame.net/story/von-der-leyen-pone-foco-cuentas-bancarias-europeos-europa-poner</comments>
+		<pubDate>Tue, 01 Sep 2026 16:00:02 +0000</pubDate>
+		<dc:creator>cocolisto</dc:creator>
+		<category><![CDATA[Economía]]></category>
+		<category><![CDATA[von der leyen]]></category>
+		<category><![CDATA[ahorros]]></category>
+		<category><![CDATA[cuentas bancarias]]></category>
+		<category><![CDATA[europeos]]></category>
+		<category><![CDATA[empresas]]></category>
+		<guid>https://www.meneame.net/story/von-der-leyen-pone-foco-cuentas-bancarias-europeos-europa-poner</guid>
+		<description><![CDATA[<p>Ursula von der Leyen,está poniendo el foco en las cuentas bancarios de los europeos (en un discurso que podría pasar a la historia) con la intención de cambiar esta 'anomalía' y convertir esa gigantesca bolsa de ahorro en combustible para financiar empresas, innovación e industria europea.El desafío será convencer a los propios ahorradores (aquí es donde surgen las suspicacias, entre convencer y 'forzar fiscalmente' hay una línea muy fina). La enorme cantidad de dinero mantenida en depósitos refleja también la preferencia europea por activos...</p><p><strong>etiquetas</strong>: von der leyen, ahorros, cuentas bancarias, europeos, empresas</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212250" >noticia original</a> (www.eleconomista.es)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212250</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212128</meneame:link_id>
+		<meneame:sub>ARTE</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>themarquesito</meneame:user>
+		<meneame:clicks>596</meneame:clicks>
+		<meneame:votes>82</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>735</meneame:karma>
+		<meneame:comments>22</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/desploman-dos-plantas-palacio-hurtado-mendoza-almazan-parte?utm_source=meneame_rss</meneame:url>
+		<title>Se desploman dos plantas del Palacio de los Hurtado de Mendoza de Almazán y parte de su galería gótica</title>
+		<link>https://www.meneame.net/story/desploman-dos-plantas-palacio-hurtado-mendoza-almazan-parte</link>
+		<comments>https://www.meneame.net/story/desploman-dos-plantas-palacio-hurtado-mendoza-almazan-parte</comments>
+		<pubDate>Tue, 01 Sep 2026 15:35:02 +0000</pubDate>
+		<dc:creator>themarquesito</dc:creator>
+		<category><![CDATA[ARTE]]></category>
+		<category><![CDATA[almazán]]></category>
+		<category><![CDATA[soria]]></category>
+		<category><![CDATA[hurtado de mendoza]]></category>
+		<category><![CDATA[palacio]]></category>
+		<category><![CDATA[patrimonio histórico]]></category>
+		<guid>https://www.meneame.net/story/desploman-dos-plantas-palacio-hurtado-mendoza-almazan-parte</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212128.webp?1788249486' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El Palacio de los Hurtado de Mendoza de Almazán ha perdido buena parte de su estructura en un derrumbe que ha abierto un enorme boquete en la fachada y ha dejado al descubierto el interior de uno de los edificios históricos más singulares de la localidad. El desplome, sucedido poco antes de las 08:00 de la mañana, ha afectado a dos plantas de la zona central del inmueble y ha arrastrado elementos arquitectónicos de gran valor, entre ellos buena parte de la galería gótica</p><p><strong>etiquetas</strong>: almazán, soria, hurtado de mendoza, palacio, patrimonio histórico</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212128" >noticia original</a> (sorianoticias.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212128.webp?1788249486" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212128</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212206</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>vicvic</meneame:user>
+		<meneame:clicks>436</meneame:clicks>
+		<meneame:votes>198</meneame:votes>
+		<meneame:negatives>10</meneame:negatives>
+		<meneame:karma>1209</meneame:karma>
+		<meneame:comments>140</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/detenido-menor-marroqui-agresion-sexual-tres-ninas-entre-10-11?utm_source=meneame_rss</meneame:url>
+		<title>Detenido un menor marroquí por agresión sexual a tres niñas de entre 10 y 11 años en un centro tras la avalancha de Ceuta</title>
+		<link>https://www.meneame.net/story/detenido-menor-marroqui-agresion-sexual-tres-ninas-entre-10-11</link>
+		<comments>https://www.meneame.net/story/detenido-menor-marroqui-agresion-sexual-tres-ninas-entre-10-11</comments>
+		<pubDate>Tue, 01 Sep 2026 15:05:20 +0000</pubDate>
+		<dc:creator>vicvic</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[invasión]]></category>
+		<category><![CDATA[menores]]></category>
+		<category><![CDATA[violación]]></category>
+		<guid>https://www.meneame.net/story/detenido-menor-marroqui-agresion-sexual-tres-ninas-entre-10-11</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212206.webp?1788262086' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Tanto las víctimas como el agresor entraron en la ciudad autónoma durante la invasión que se produjo a finales de julio. El escenario de las mismas fue un centro de menores.</p><p><strong>etiquetas</strong>: invasión, menores, violación</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212206" >noticia original</a> (www.abc.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212206.webp?1788262086" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212206</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212233</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>carraxe</meneame:user>
+		<meneame:clicks>248</meneame:clicks>
+		<meneame:votes>230</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1448</meneame:karma>
+		<meneame:comments>19</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/tratado-datos-personales-ue-israel-viola-legalidad-internacional?utm_source=meneame_rss</meneame:url>
+		<title>El tratado de datos personales UE-Israel que viola la legalidad internacional [ENG]</title>
+		<link>https://www.meneame.net/story/tratado-datos-personales-ue-israel-viola-legalidad-internacional</link>
+		<comments>https://www.meneame.net/story/tratado-datos-personales-ue-israel-viola-legalidad-internacional</comments>
+		<pubDate>Tue, 01 Sep 2026 15:05:03 +0000</pubDate>
+		<dc:creator>carraxe</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[sionismo]]></category>
+		<category><![CDATA[corrupción]]></category>
+		<category><![CDATA[ley internacional]]></category>
+		<category><![CDATA[israel]]></category>
+		<category><![CDATA[unión europea]]></category>
+		<category><![CDATA[europa]]></category>
+		<guid>https://www.meneame.net/story/tratado-datos-personales-ue-israel-viola-legalidad-internacional</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/46/media_thumb-link-4212233.webp?1788268266' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La UE afirma defender la privacidad, los derechos humanos y el derecho internacional. Entonces, ¿por qué está negociando un acuerdo masivo de intercambio de datos personales con Israel, a pesar de que sus propios abogados advierten que viola las propias leyes de la Unión — junto con el derecho internacional</p><p><strong>etiquetas</strong>: sionismo, corrupción, ley internacional, israel, unión europea, europa</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212233" >noticia original</a> (www.youtube.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/46/media_thumb-link-4212233.webp?1788268266" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212233</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212178</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Mopongo</meneame:user>
+		<meneame:clicks>221</meneame:clicks>
+		<meneame:votes>125</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>1010</meneame:karma>
+		<meneame:comments>58</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/rusia-pide-espana-pruebas-sobre-supuesta-implicacion-crisis?utm_source=meneame_rss</meneame:url>
+		<title>Rusia pide a España pruebas sobre su supuesta implicación en la crisis migratoria de Ceuta</title>
+		<link>https://www.meneame.net/story/rusia-pide-espana-pruebas-sobre-supuesta-implicacion-crisis</link>
+		<comments>https://www.meneame.net/story/rusia-pide-espana-pruebas-sobre-supuesta-implicacion-crisis</comments>
+		<pubDate>Tue, 01 Sep 2026 14:40:02 +0000</pubDate>
+		<dc:creator>Mopongo</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[rusia]]></category>
+		<category><![CDATA[españa]]></category>
+		<category><![CDATA[crisis]]></category>
+		<category><![CDATA[ceuta]]></category>
+		<category><![CDATA[explicaciones]]></category>
+		<guid>https://www.meneame.net/story/rusia-pide-espana-pruebas-sobre-supuesta-implicacion-crisis</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212178.webp?1788255786' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El Ministerio de Exteriores de Rusia pidió este martes a España pruebas sobre su supuesta implicación en una campaña de desinformación que habría provocado la crisis migratoria en el enclave español de Ceuta. «Cuando hay acusaciones, debe haber hechos concretos que después requieren verificación. Y sólo después de esto se puede hablar sobre una acusación que, de alguna forma, pueda ser tomada en serio», dijo María Zajárova, portavoz de Exteriores, en rueda de prensa, según informa la agencia Interfax.</p><p><strong>etiquetas</strong>: rusia, españa, crisis, ceuta, explicaciones</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212178" >noticia original</a> (efe.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212178.webp?1788255786" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212178</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212235</meneame:link_id>
+		<meneame:sub>Israel</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Tkachenko</meneame:user>
+		<meneame:clicks>221</meneame:clicks>
+		<meneame:votes>221</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1664</meneame:karma>
+		<meneame:comments>17</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/netanyahu-jacta-como-cadenas-noticias-estadounidenses-influir?utm_source=meneame_rss</meneame:url>
+		<title>Netanyahu se jacta de cómo las cadenas de noticias estadounidenses le permitieron «influir» para que Estados Unidos entrara en guerra con Irán (EN)</title>
+		<link>https://www.meneame.net/story/netanyahu-jacta-como-cadenas-noticias-estadounidenses-influir</link>
+		<comments>https://www.meneame.net/story/netanyahu-jacta-como-cadenas-noticias-estadounidenses-influir</comments>
+		<pubDate>Tue, 01 Sep 2026 14:10:02 +0000</pubDate>
+		<dc:creator>Tkachenko</dc:creator>
+		<category><![CDATA[Israel]]></category>
+		<category><![CDATA[sionismo]]></category>
+		<category><![CDATA[israel]]></category>
+		<category><![CDATA[netanyahu]]></category>
+		<category><![CDATA[eeuu]]></category>
+		<category><![CDATA[televisión]]></category>
+		<category><![CDATA[trump]]></category>
+		<category><![CDATA[irán]]></category>
+		<category><![CDATA[guerra]]></category>
+		<guid>https://www.meneame.net/story/netanyahu-jacta-como-cadenas-noticias-estadounidenses-influir</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/46/media_thumb-link-4212235.webp?1788269226' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Según Netanyahu, pudo hacerlo porque contaba con «casi 1.000 horas de presencia en la televisión estadounidense, con la capacidad de influir en Estados Unidos —gracias a su profundo conocimiento de todos sus líderes, tanto de los que nos apoyan como de los que no— y con la capacidad de moverse en este ámbito, de abrirse camino a través de él».</p><p><strong>etiquetas</strong>: sionismo, israel, netanyahu, eeuu, televisión, trump, irán, guerra</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212235" >noticia original</a> (zeteo.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/46/media_thumb-link-4212235.webp?1788269226" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212235</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212234</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Heni</meneame:user>
+		<meneame:clicks>1445</meneame:clicks>
+		<meneame:votes>160</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1510</meneame:karma>
+		<meneame:comments>30</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/devastacion-causada-nsa-base-naval-bahrein-constituye-seguridad?utm_source=meneame_rss</meneame:url>
+		<title>La devastación causada en la NSA (base naval) en Bahréin constituye una advertencia de seguridad nacional [EN]</title>
+		<link>https://www.meneame.net/story/devastacion-causada-nsa-base-naval-bahrein-constituye-seguridad</link>
+		<comments>https://www.meneame.net/story/devastacion-causada-nsa-base-naval-bahrein-constituye-seguridad</comments>
+		<pubDate>Tue, 01 Sep 2026 13:50:19 +0000</pubDate>
+		<dc:creator>Heni</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[guerra de iran]]></category>
+		<category><![CDATA[base naval de eeuu en barhein]]></category>
+		<guid>https://www.meneame.net/story/devastacion-causada-nsa-base-naval-bahrein-constituye-seguridad</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/46/media_thumb-link-4212234.webp?1788268986' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Cuanto más aprendemos sobre los ataques contra la Base de Apoyo Naval de EEUU en Bahréin, durante los primeros días de la Operación Furia Épica, más claro queda por qué la noticia de su casi destrucción no fue reportada ni reconocida inicialmente. Resulta inimaginable la idea de que este centro de operaciones de amplio funcionamiento, construido a lo largo de décadas, se viera significativamente degradado en cuestión de días por un actor regional. Entre los edificios que resultaron dañados se encuentran el cuartel general de la Quinta Flota,...</p><p><strong>etiquetas</strong>: guerra de iran, base naval de eeuu en barhein</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212234" >noticia original</a> (www.militarytimes.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/46/media_thumb-link-4212234.webp?1788268986" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212234</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212190</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>exducados</meneame:user>
+		<meneame:clicks>834</meneame:clicks>
+		<meneame:votes>144</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1214</meneame:karma>
+		<meneame:comments>29</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/estados-unidos-podria-haber-consumido-17-reservas-pac-3-sola?utm_source=meneame_rss</meneame:url>
+		<title>Estados Unidos podría haber consumido el 17% de sus reservas de PAC-3 en una sola noche</title>
+		<link>https://www.meneame.net/story/estados-unidos-podria-haber-consumido-17-reservas-pac-3-sola</link>
+		<comments>https://www.meneame.net/story/estados-unidos-podria-haber-consumido-17-reservas-pac-3-sola</comments>
+		<pubDate>Tue, 01 Sep 2026 13:45:19 +0000</pubDate>
+		<dc:creator>exducados</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[estados unidos]]></category>
+		<category><![CDATA[]]></category>
+		<category><![CDATA[consumido]]></category>
+		<category><![CDATA[17%]]></category>
+		<category><![CDATA[reservas]]></category>
+		<category><![CDATA[misiles]]></category>
+		<category><![CDATA[pac-3]]></category>
+		<guid>https://www.meneame.net/story/estados-unidos-podria-haber-consumido-17-reservas-pac-3-sola</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212190.webp?1788258726' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Las fuerzas estadounidenses podrían haber utilizado entre 96 y 128 misiles interceptores PAC-3 en una sola noche mientras defendían bases militares en Jordania</p><p><strong>etiquetas</strong>: estados unidos, ,consumido, 17%, reservas, misiles, pac-3</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212190" >noticia original</a> (galaxiamilitar.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212190.webp?1788258726" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212190</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212076</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Torrezzno</meneame:user>
+		<meneame:clicks>403</meneame:clicks>
+		<meneame:votes>89</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>765</meneame:karma>
+		<meneame:comments>55</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/hombre-quemo-bonzo-cordoba-sufria-problemas-mentales-creia-ser?utm_source=meneame_rss</meneame:url>
+		<title>El hombre que se quemó a lo bonzo en Córdoba sufría problemas mentales y creía ser víctima de un complot judicial</title>
+		<link>https://www.meneame.net/story/hombre-quemo-bonzo-cordoba-sufria-problemas-mentales-creia-ser</link>
+		<comments>https://www.meneame.net/story/hombre-quemo-bonzo-cordoba-sufria-problemas-mentales-creia-ser</comments>
+		<pubDate>Tue, 01 Sep 2026 13:15:03 +0000</pubDate>
+		<dc:creator>Torrezzno</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[bonzo]]></category>
+		<category><![CDATA[cordoba]]></category>
+		<category><![CDATA[custodia]]></category>
+		<category><![CDATA[padre]]></category>
+		<category><![CDATA[justicia]]></category>
+		<guid>https://www.meneame.net/story/hombre-quemo-bonzo-cordoba-sufria-problemas-mentales-creia-ser</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212076.webp?1788237486' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Llevaba años sumido en procesos legales denunciando el &quot;secuestro&quot; de su hijo, pero los tribunales frenaron en julio la posibilidad de pernoctas tras comunicar él mismo un ingreso en el hospital por ver amenazada su propia estabilidad</p><p><strong>etiquetas</strong>: bonzo, cordoba, custodia, padre, justicia</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212076" >noticia original</a> (cordopolis.eldiario.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212076.webp?1788237486" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212076</wfw:commentRss>	</item>
+
 	<item>
 		<meneame:link_id>4211826</meneame:link_id>
 		<meneame:sub>ciencia</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Harkon</meneame:user>
-		<meneame:clicks>285</meneame:clicks>
-		<meneame:votes>42</meneame:votes>
+		<meneame:clicks>1458</meneame:clicks>
+		<meneame:votes>131</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>678</meneame:karma>
-		<meneame:comments>34</meneame:comments>
+		<meneame:karma>1316</meneame:karma>
+		<meneame:comments>67</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/pedisteis-viaje-completo-aqui-esta-lanzamiento-aterrizaje-etapa?utm_source=meneame_rss</meneame:url>
 		<title>Pedísteis el viaje completo. Aquí está (Lanzamiento y aterrizaje de la primera etapa del cohete orbital chino Zhuque-3)</title>
 		<link>https://www.meneame.net/story/pedisteis-viaje-completo-aqui-esta-lanzamiento-aterrizaje-etapa</link>
@@ -54,11 +326,11 @@
 		<meneame:sub>Arquitectura</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Free_palestine</meneame:user>
-		<meneame:clicks>925</meneame:clicks>
-		<meneame:votes>41</meneame:votes>
+		<meneame:clicks>4526</meneame:clicks>
+		<meneame:votes>161</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>493</meneame:karma>
-		<meneame:comments>2</meneame:comments>
+		<meneame:karma>1351</meneame:karma>
+		<meneame:comments>16</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/torre-atrapa-viento-como-iran-enfria-casas?utm_source=meneame_rss</meneame:url>
 		<title>La torre que atrapa el viento: cómo Irán enfría sus casas</title>
 		<link>https://www.meneame.net/story/torre-atrapa-viento-como-iran-enfria-casas</link>
@@ -81,11 +353,11 @@
 		<meneame:sub>FACEPALM</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Oghaio</meneame:user>
-		<meneame:clicks>469</meneame:clicks>
-		<meneame:votes>94</meneame:votes>
+		<meneame:clicks>1231</meneame:clicks>
+		<meneame:votes>237</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>900</meneame:karma>
-		<meneame:comments>30</meneame:comments>
+		<meneame:karma>1819</meneame:karma>
+		<meneame:comments>44</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/ciudad-ceuta-desmiente-marcos-quinto-no-pago-cena-flotilla?utm_source=meneame_rss</meneame:url>
 		<title>La Ciudad de Ceuta desmiente a Marcos de Quinto: no pagó la cena de la flotilla</title>
 		<link>https://www.meneame.net/story/ciudad-ceuta-desmiente-marcos-quinto-no-pago-cena-flotilla</link>
@@ -109,11 +381,11 @@
 		<meneame:sub>ocio</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>ccguy</meneame:user>
-		<meneame:clicks>273</meneame:clicks>
-		<meneame:votes>120</meneame:votes>
+		<meneame:clicks>607</meneame:clicks>
+		<meneame:votes>235</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>954</meneame:karma>
-		<meneame:comments>16</meneame:comments>
+		<meneame:karma>1724</meneame:karma>
+		<meneame:comments>28</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/vuelta-trabajo-genera-como-cada-ano-pico-temporal-marxismo?utm_source=meneame_rss</meneame:url>
 		<title>La vuelta al trabajo genera, como cada año, un pico temporal de marxismo radical</title>
 		<link>https://www.meneame.net/story/vuelta-trabajo-genera-como-cada-ano-pico-temporal-marxismo</link>
@@ -136,11 +408,11 @@
 		<meneame:sub>Guerras</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Tkachenko</meneame:user>
-		<meneame:clicks>179</meneame:clicks>
-		<meneame:votes>108</meneame:votes>
+		<meneame:clicks>214</meneame:clicks>
+		<meneame:votes>159</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>868</meneame:karma>
-		<meneame:comments>48</meneame:comments>
+		<meneame:karma>1212</meneame:karma>
+		<meneame:comments>70</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/ue-dice-seguira-trabajando-ee-uu-g7-mantener-presion-sobre-iran?utm_source=meneame_rss</meneame:url>
 		<title>La UE dice que seguirá trabajando con EE.UU. y el G7 para mantener la presión sobre Irán (EN)</title>
 		<link>https://www.meneame.net/story/ue-dice-seguira-trabajando-ee-uu-g7-mantener-presion-sobre-iran</link>
@@ -165,10 +437,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>JanSmite</meneame:user>
-		<meneame:clicks>615</meneame:clicks>
-		<meneame:votes>122</meneame:votes>
+		<meneame:clicks>842</meneame:clicks>
+		<meneame:votes>178</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1045</meneame:karma>
+		<meneame:karma>1386</meneame:karma>
 		<meneame:comments>23</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/nuestra-guerra-comercial-contra-nosotros-mismos-tratar-canada?utm_source=meneame_rss</meneame:url>
 		<title>Nuestra guerra comercial contra nosotros mismos: tratar a Canadá como a un enemigo nos debilita en todos los sentidos [Ing]</title>
@@ -190,11 +462,11 @@
 		<meneame:sub>Trump</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>arllutoquintumi</meneame:user>
-		<meneame:clicks>1257</meneame:clicks>
-		<meneame:votes>173</meneame:votes>
+		<meneame:clicks>1654</meneame:clicks>
+		<meneame:votes>241</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1226</meneame:karma>
-		<meneame:comments>19</meneame:comments>
+		<meneame:karma>1636</meneame:karma>
+		<meneame:comments>23</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/ataque-trump-isla-irani-larak-evidencia-intento-esconder?utm_source=meneame_rss</meneame:url>
 		<title>El ataque de Trump a la isla iraní de Larak evidencia el intento de esconder su ineptitud</title>
 		<link>https://www.meneame.net/story/ataque-trump-isla-irani-larak-evidencia-intento-esconder</link>
@@ -215,11 +487,11 @@
 		<meneame:sub>Motor</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1522</meneame:clicks>
-		<meneame:votes>116</meneame:votes>
+		<meneame:clicks>1899</meneame:clicks>
+		<meneame:votes>146</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1011</meneame:karma>
-		<meneame:comments>90</meneame:comments>
+		<meneame:karma>1228</meneame:karma>
+		<meneame:comments>99</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/preocupacion-madring-19-banderas-rojas-solo-dos-dias?utm_source=meneame_rss</meneame:url>
 		<title>Preocupación por el MADRING: 19 banderas rojas en solo dos días</title>
 		<link>https://www.meneame.net/story/preocupacion-madring-19-banderas-rojas-solo-dos-dias</link>
@@ -241,11 +513,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>fredpalas</meneame:user>
-		<meneame:clicks>539</meneame:clicks>
-		<meneame:votes>157</meneame:votes>
-		<meneame:negatives>8</meneame:negatives>
-		<meneame:karma>1188</meneame:karma>
-		<meneame:comments>113</meneame:comments>
+		<meneame:clicks>676</meneame:clicks>
+		<meneame:votes>191</meneame:votes>
+		<meneame:negatives>13</meneame:negatives>
+		<meneame:karma>1358</meneame:karma>
+		<meneame:comments>127</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/jovenes-huyeron-putin-evitar-guerra-rusia-pueden-parar-calle?utm_source=meneame_rss</meneame:url>
 		<title>Jóvenes que huyeron de Putin para evitar la guerra: &#34;En Rusia te pueden parar por la calle, obligarte a firmar un contrato y enviarte al frente&#34;</title>
 		<link>https://www.meneame.net/story/jovenes-huyeron-putin-evitar-guerra-rusia-pueden-parar-calle</link>
@@ -268,11 +540,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Ratoncolorao</meneame:user>
-		<meneame:clicks>1209</meneame:clicks>
-		<meneame:votes>211</meneame:votes>
+		<meneame:clicks>1459</meneame:clicks>
+		<meneame:votes>246</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1597</meneame:karma>
-		<meneame:comments>45</meneame:comments>
+		<meneame:karma>1814</meneame:karma>
+		<meneame:comments>63</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/bocadillos-ilegales?utm_source=meneame_rss</meneame:url>
 		<title>Bocadillos ilegales</title>
 		<link>https://www.meneame.net/story/bocadillos-ilegales</link>
@@ -294,11 +566,11 @@
 		<meneame:sub>ciencia</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>ccguy</meneame:user>
-		<meneame:clicks>1458</meneame:clicks>
-		<meneame:votes>57</meneame:votes>
+		<meneame:clicks>1804</meneame:clicks>
+		<meneame:votes>73</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>683</meneame:karma>
-		<meneame:comments>54</meneame:comments>
+		<meneame:karma>818</meneame:karma>
+		<meneame:comments>68</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/cuando-palabra-no-cabe-carril-carretera-fragmento-debe-ir?utm_source=meneame_rss</meneame:url>
 		<title>Cuando una palabra no cabe en el carril de la carretera, ¿qué fragmento debe ir primero?</title>
 		<link>https://www.meneame.net/story/cuando-palabra-no-cabe-carril-carretera-fragmento-debe-ir</link>
@@ -321,11 +593,11 @@
 		<meneame:sub>MAmbiente</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Laro__</meneame:user>
-		<meneame:clicks>459</meneame:clicks>
-		<meneame:votes>166</meneame:votes>
+		<meneame:clicks>557</meneame:clicks>
+		<meneame:votes>193</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1223</meneame:karma>
-		<meneame:comments>43</meneame:comments>
+		<meneame:karma>1387</meneame:karma>
+		<meneame:comments>48</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/fenomeno-nino-mas-fuerte-ultimos-1-000-anos-eng?utm_source=meneame_rss</meneame:url>
 		<title>El fenómeno del Niño es el más fuerte de los últimos 1.000 años [ENG]</title>
 		<link>https://www.meneame.net/story/fenomeno-nino-mas-fuerte-ultimos-1-000-anos-eng</link>
@@ -348,11 +620,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Janssen</meneame:user>
-		<meneame:clicks>919</meneame:clicks>
-		<meneame:votes>141</meneame:votes>
+		<meneame:clicks>1092</meneame:clicks>
+		<meneame:votes>166</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1228</meneame:karma>
-		<meneame:comments>4</meneame:comments>
+		<meneame:karma>1389</meneame:karma>
+		<meneame:comments>5</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/rescate-siglo-carrera-contrarreloj-salvar-vida-mas-900-nepal?utm_source=meneame_rss</meneame:url>
 		<title>El rescate del siglo: la carrera a contrarreloj para salvar la vida de más de 900 trabajadores en Nepal</title>
 		<link>https://www.meneame.net/story/rescate-siglo-carrera-contrarreloj-salvar-vida-mas-900-nepal</link>
@@ -373,11 +645,11 @@
 		<meneame:sub>politica</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Ripio</meneame:user>
-		<meneame:clicks>2075</meneame:clicks>
-		<meneame:votes>142</meneame:votes>
+		<meneame:clicks>2475</meneame:clicks>
+		<meneame:votes>169</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
-		<meneame:karma>1240</meneame:karma>
-		<meneame:comments>58</meneame:comments>
+		<meneame:karma>1418</meneame:karma>
+		<meneame:comments>63</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/como-conseguir-teletrabajo-aunque-empresa-no-quiera?utm_source=meneame_rss</meneame:url>
 		<title>Cómo conseguir teletrabajo aunque la empresa no quiera</title>
 		<link>https://www.meneame.net/story/como-conseguir-teletrabajo-aunque-empresa-no-quiera</link>
@@ -397,11 +669,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>News333</meneame:user>
-		<meneame:clicks>956</meneame:clicks>
-		<meneame:votes>236</meneame:votes>
+		<meneame:clicks>1133</meneame:clicks>
+		<meneame:votes>283</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1714</meneame:karma>
-		<meneame:comments>46</meneame:comments>
+		<meneame:karma>1982</meneame:karma>
+		<meneame:comments>55</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/criminalizacion-vecinas-carrito-avanza-donostia?utm_source=meneame_rss</meneame:url>
 		<title>La criminalización de las vecinas con carrito avanza en Donostia</title>
 		<link>https://www.meneame.net/story/criminalizacion-vecinas-carrito-avanza-donostia</link>
@@ -426,11 +698,11 @@
 		<meneame:sub>Putas</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>615</meneame:clicks>
-		<meneame:votes>199</meneame:votes>
+		<meneame:clicks>717</meneame:clicks>
+		<meneame:votes>231</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1316</meneame:karma>
-		<meneame:comments>59</meneame:comments>
+		<meneame:karma>1505</meneame:karma>
+		<meneame:comments>63</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/tailandia-emite-advertencia-sobre-prostitucion-mientras-5-000?utm_source=meneame_rss</meneame:url>
 		<title>Tailandia emite una advertencia sobre prostitución mientras 5.000 marineros estadounidenses llegan a una ciudad turística después de 200 días en el mar [EN]</title>
 		<link>https://www.meneame.net/story/tailandia-emite-advertencia-sobre-prostitucion-mientras-5-000</link>
@@ -451,10 +723,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Supercinexin</meneame:user>
-		<meneame:clicks>237</meneame:clicks>
-		<meneame:votes>238</meneame:votes>
+		<meneame:clicks>270</meneame:clicks>
+		<meneame:votes>268</meneame:votes>
 		<meneame:negatives>3</meneame:negatives>
-		<meneame:karma>1668</meneame:karma>
+		<meneame:karma>1838</meneame:karma>
 		<meneame:comments>26</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar?utm_source=meneame_rss</meneame:url>
 		<title>ACO denuncia ante la Fiscalía a Figaredo por un delito de incitación al odio y la violencia al llamar a “cazar” menores migrantes en Ceuta</title>
@@ -480,10 +752,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>cocolisto</meneame:user>
-		<meneame:clicks>363</meneame:clicks>
-		<meneame:votes>200</meneame:votes>
+		<meneame:clicks>390</meneame:clicks>
+		<meneame:votes>213</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1535</meneame:karma>
+		<meneame:karma>1606</meneame:karma>
 		<meneame:comments>15</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/secretario-ejercito-eeuu-dan-driscoll-presenta-dimision-tras?utm_source=meneame_rss</meneame:url>
 		<title>El secretario del ejército de EEUU , Dan Driscoll, presenta su dimisión tras tensiones con Hegseth (inglés)</title>
@@ -506,11 +778,11 @@
 		<meneame:sub>politica</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Bifaz</meneame:user>
-		<meneame:clicks>1895</meneame:clicks>
-		<meneame:votes>156</meneame:votes>
+		<meneame:clicks>2030</meneame:clicks>
+		<meneame:votes>167</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1226</meneame:karma>
-		<meneame:comments>35</meneame:comments>
+		<meneame:karma>1302</meneame:karma>
+		<meneame:comments>37</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/seis-lecciones-roy-cohn-enseno-trump-todavia-usa-hoy?utm_source=meneame_rss</meneame:url>
 		<title>Las seis lecciones que Roy Cohn le enseñó a Trump (y que todavía usa hoy) [ENG]</title>
 		<link>https://www.meneame.net/story/seis-lecciones-roy-cohn-enseno-trump-todavia-usa-hoy</link>
@@ -531,10 +803,10 @@
 		<meneame:sub>Venezuela</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>arllutoquintumi</meneame:user>
-		<meneame:clicks>1463</meneame:clicks>
-		<meneame:votes>137</meneame:votes>
+		<meneame:clicks>1558</meneame:clicks>
+		<meneame:votes>143</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1054</meneame:karma>
+		<meneame:karma>1086</meneame:karma>
 		<meneame:comments>56</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/maduro-aparece-nuevas-imagenes-durante-encierro-estados-unidos?utm_source=meneame_rss</meneame:url>
 		<title>Maduro aparece en nuevas imágenes durante su encierro en Estados Unidos</title>
@@ -556,11 +828,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>TheShrike</meneame:user>
-		<meneame:clicks>1786</meneame:clicks>
-		<meneame:votes>191</meneame:votes>
-		<meneame:negatives>18</meneame:negatives>
-		<meneame:karma>1325</meneame:karma>
-		<meneame:comments>82</meneame:comments>
+		<meneame:clicks>1902</meneame:clicks>
+		<meneame:votes>201</meneame:votes>
+		<meneame:negatives>19</meneame:negatives>
+		<meneame:karma>1392</meneame:karma>
+		<meneame:comments>85</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/opinion-saber-pobre?utm_source=meneame_rss</meneame:url>
 		<title>Opinión: Saber que se es pobre</title>
 		<link>https://www.meneame.net/story/opinion-saber-pobre</link>
@@ -582,11 +854,11 @@
 		<meneame:sub>cultura</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>benjami</meneame:user>
-		<meneame:clicks>499</meneame:clicks>
-		<meneame:votes>129</meneame:votes>
+		<meneame:clicks>540</meneame:clicks>
+		<meneame:votes>137</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>983</meneame:karma>
-		<meneame:comments>40</meneame:comments>
+		<meneame:karma>1033</meneame:karma>
+		<meneame:comments>43</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/paco-lucia-1988-padre-decia-pequeno-no-estudiara-musica-porque?utm_source=meneame_rss</meneame:url>
 		<title>Paco de Lucía, en 1988: &#34;Mi padre me decía de pequeño que no estudiara música, porque si aprendía iba a perder la espontaneidad&#34;</title>
 		<link>https://www.meneame.net/story/paco-lucia-1988-padre-decia-pequeno-no-estudiara-musica-porque</link>
@@ -607,11 +879,11 @@
 		<meneame:sub>ocio</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Albarkas</meneame:user>
-		<meneame:clicks>2756</meneame:clicks>
-		<meneame:votes>215</meneame:votes>
+		<meneame:clicks>2947</meneame:clicks>
+		<meneame:votes>227</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1724</meneame:karma>
-		<meneame:comments>17</meneame:comments>
+		<meneame:karma>1809</meneame:karma>
+		<meneame:comments>18</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/camera-cafe-17-anos-despues-directivos-les-pareciamos-todos-feos?utm_source=meneame_rss</meneame:url>
 		<title>‘Camera Café’, 17 años después: “A los directivos les parecíamos todos feos”</title>
 		<link>https://www.meneame.net/story/camera-cafe-17-anos-despues-directivos-les-pareciamos-todos-feos</link>
@@ -630,11 +902,11 @@
 		<meneame:sub>tecnología</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>josde</meneame:user>
-		<meneame:clicks>1684</meneame:clicks>
-		<meneame:votes>103</meneame:votes>
+		<meneame:clicks>1827</meneame:clicks>
+		<meneame:votes>108</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>381</meneame:karma>
-		<meneame:comments>38</meneame:comments>
+		<meneame:karma>429</meneame:karma>
+		<meneame:comments>41</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras?utm_source=meneame_rss</meneame:url>
 		<title>El sistema operativo GentleOS le brinda una nueva vida a las computadoras antiguas</title>
 		<link>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras</link>
@@ -660,10 +932,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>JanSmite</meneame:user>
-		<meneame:clicks>500</meneame:clicks>
-		<meneame:votes>233</meneame:votes>
+		<meneame:clicks>546</meneame:clicks>
+		<meneame:votes>244</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1650</meneame:karma>
+		<meneame:karma>1726</meneame:karma>
 		<meneame:comments>29</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/agente-policia-georgia-suspendido-funciones-tras-matar-burrito?utm_source=meneame_rss</meneame:url>
 		<title>Un agente de policía de Georgia, suspendido de sus funciones tras matar al burrito que era la mascota de una familia durante una búsqueda [Ing]</title>
@@ -686,11 +958,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>chikita</meneame:user>
-		<meneame:clicks>893</meneame:clicks>
-		<meneame:votes>143</meneame:votes>
+		<meneame:clicks>934</meneame:clicks>
+		<meneame:votes>145</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1194</meneame:karma>
-		<meneame:comments>26</meneame:comments>
+		<meneame:karma>1209</meneame:karma>
+		<meneame:comments>30</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/muere-joven-25-anos-tras-incendiarse-unos-trasteros-bicicletas?utm_source=meneame_rss</meneame:url>
 		<title>Muere un joven de 25 años tras incendiarse unos trasteros con bicicletas eléctricas en Arganzuela</title>
 		<link>https://www.meneame.net/story/muere-joven-25-anos-tras-incendiarse-unos-trasteros-bicicletas</link>
@@ -713,11 +985,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Enunlugardelamancha</meneame:user>
-		<meneame:clicks>1484</meneame:clicks>
-		<meneame:votes>284</meneame:votes>
+		<meneame:clicks>1572</meneame:clicks>
+		<meneame:votes>296</meneame:votes>
 		<meneame:negatives>4</meneame:negatives>
-		<meneame:karma>2041</meneame:karma>
-		<meneame:comments>34</meneame:comments>
+		<meneame:karma>2116</meneame:karma>
+		<meneame:comments>35</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/detectives-vigilancia-despido-golpe-judicial-recibe-mercadona?utm_source=meneame_rss</meneame:url>
 		<title>Detectives, vigilancia y despido: el golpe judicial que recibe Mercadona en Castilla-La Mancha con una trabajadora</title>
 		<link>https://www.meneame.net/story/detectives-vigilancia-despido-golpe-judicial-recibe-mercadona</link>
@@ -736,10 +1008,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Mangione</meneame:user>
-		<meneame:clicks>607</meneame:clicks>
-		<meneame:votes>287</meneame:votes>
+		<meneame:clicks>632</meneame:clicks>
+		<meneame:votes>300</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>2145</meneame:karma>
+		<meneame:karma>2223</meneame:karma>
 		<meneame:comments>30</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/pentagono-furioso-filtracion-informacion-clasificada-sobre-iran?utm_source=meneame_rss</meneame:url>
 		<title>El Pentágono, furioso por la filtración de información clasificada sobre la disconformidad con la guerra contra Irán [Eng]</title>
@@ -764,10 +1036,10 @@
 		<meneame:sub>cultura</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>ccguy</meneame:user>
-		<meneame:clicks>1127</meneame:clicks>
-		<meneame:votes>68</meneame:votes>
+		<meneame:clicks>1165</meneame:clicks>
+		<meneame:votes>69</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>670</meneame:karma>
+		<meneame:karma>676</meneame:karma>
 		<meneame:comments>11</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/aceca-palacio-real-espana-perdio?utm_source=meneame_rss</meneame:url>
 		<title>Aceca, el palacio real que España perdió</title>
@@ -791,11 +1063,11 @@
 		<meneame:sub>Artículos</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>livingstone8584</meneame:user>
-		<meneame:clicks>2160</meneame:clicks>
-		<meneame:votes>256</meneame:votes>
+		<meneame:clicks>2247</meneame:clicks>
+		<meneame:votes>262</meneame:votes>
 		<meneame:negatives>4</meneame:negatives>
-		<meneame:karma>1541</meneame:karma>
-		<meneame:comments>39</meneame:comments>
+		<meneame:karma>1577</meneame:karma>
+		<meneame:comments>41</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/derecho-frente-ultraderecha-razones-herramientas-juridicas-nueva?utm_source=meneame_rss</meneame:url>
 		<title>El Derecho frente a la ultraderecha. Razones y herramientas jurídicas contra la nueva barbarie</title>
 		<link>https://www.meneame.net/story/derecho-frente-ultraderecha-razones-herramientas-juridicas-nueva</link>
@@ -813,10 +1085,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>mtrazid</meneame:user>
-		<meneame:clicks>1447</meneame:clicks>
-		<meneame:votes>170</meneame:votes>
+		<meneame:clicks>1489</meneame:clicks>
+		<meneame:votes>172</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1381</meneame:karma>
+		<meneame:karma>1392</meneame:karma>
 		<meneame:comments>2</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/muere-actor-espanol-francesc-garrido-conocido-peliculas-como-mar?utm_source=meneame_rss</meneame:url>
 		<title>Muere el actor español Francesc Garrido, conocido por películas como Mar adentro, a los 56 años</title>
@@ -838,11 +1110,11 @@
 		<meneame:sub>Ibiza</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1001</meneame:clicks>
-		<meneame:votes>267</meneame:votes>
+		<meneame:clicks>1024</meneame:clicks>
+		<meneame:votes>274</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1920</meneame:karma>
-		<meneame:comments>85</meneame:comments>
+		<meneame:karma>1960</meneame:karma>
+		<meneame:comments>87</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/profesores-ibiza-hay-mallorquines-vienen-llorando-porque-no-aqui?utm_source=meneame_rss</meneame:url>
 		<title>Profesores en Ibiza: “hay mallorquines que vienen llorando porque no quieren estar aquí”</title>
 		<link>https://www.meneame.net/story/profesores-ibiza-hay-mallorquines-vienen-llorando-porque-no-aqui</link>
@@ -865,11 +1137,11 @@
 		<meneame:sub>REINO_UNIDO</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>780</meneame:clicks>
-		<meneame:votes>220</meneame:votes>
+		<meneame:clicks>806</meneame:clicks>
+		<meneame:votes>224</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1506</meneame:karma>
-		<meneame:comments>63</meneame:comments>
+		<meneame:karma>1528</meneame:karma>
+		<meneame:comments>65</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/casas-inglaterra-valen-menos-hace-20-anos-propiedades-reino-ya?utm_source=meneame_rss</meneame:url>
 		<title>Las casas en Inglaterra valen menos que hace 20 años: las propiedades en el Reino Unido ya no pueden clasificarse como inversiones [EN]</title>
 		<link>https://www.meneame.net/story/casas-inglaterra-valen-menos-hace-20-anos-propiedades-reino-ya</link>
@@ -890,10 +1162,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Mauro_Nacho</meneame:user>
-		<meneame:clicks>1514</meneame:clicks>
-		<meneame:votes>423</meneame:votes>
+		<meneame:clicks>1548</meneame:clicks>
+		<meneame:votes>433</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>2903</meneame:karma>
+		<meneame:karma>2960</meneame:karma>
 		<meneame:comments>51</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/investigador-isaac-levi-explica-espana-uno-paises-mas-han-guerra?utm_source=meneame_rss</meneame:url>
 		<title>El investigador Isaac Levi explica por qué España es uno de los países que más se han ahorrado el sobrecoste de la guerra de Irán: &#34;Está realmente a la vanguardia&#34;</title>
@@ -915,10 +1187,10 @@
 		<meneame:sub>Ecologíaymed</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Pixmac</meneame:user>
-		<meneame:clicks>1718</meneame:clicks>
-		<meneame:votes>385</meneame:votes>
+		<meneame:clicks>1748</meneame:clicks>
+		<meneame:votes>391</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>2588</meneame:karma>
+		<meneame:karma>2621</meneame:karma>
 		<meneame:comments>36</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/batalla-salvar-singular-nogal-centenario-13-metros-used-zaragoza?utm_source=meneame_rss</meneame:url>
 		<title>La batalla por salvar un singular nogal centenario de 13 metros en Used (Zaragoza): “Le han echado herbicida&#34;</title>
@@ -943,11 +1215,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>YeahYa</meneame:user>
-		<meneame:clicks>4501</meneame:clicks>
-		<meneame:votes>460</meneame:votes>
+		<meneame:clicks>4615</meneame:clicks>
+		<meneame:votes>470</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
-		<meneame:karma>3513</meneame:karma>
-		<meneame:comments>117</meneame:comments>
+		<meneame:karma>3567</meneame:karma>
+		<meneame:comments>118</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/pijos-borrachos-yates-recreo-mejores-reacciones-armada-solidaria?utm_source=meneame_rss</meneame:url>
 		<title>&#34;Pijos borrachos en yates de recreo&#34;: las mejores reacciones a la 'Armada solidaria' de Ceuta</title>
 		<link>https://www.meneame.net/story/pijos-borrachos-yates-recreo-mejores-reacciones-armada-solidaria</link>
@@ -968,10 +1240,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Meneador_Compulsivo</meneame:user>
-		<meneame:clicks>3106</meneame:clicks>
-		<meneame:votes>179</meneame:votes>
+		<meneame:clicks>3156</meneame:clicks>
+		<meneame:votes>180</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1528</meneame:karma>
+		<meneame:karma>1533</meneame:karma>
 		<meneame:comments>59</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/polemico-lider-guru-india-estrena-cabina-aire-acondicionado-pies?utm_source=meneame_rss</meneame:url>
 		<title>Polémico líder gurú de la India estrena cabina con aire acondicionado para que sus seguidores puedan besar sus pies</title>
@@ -997,11 +1269,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Meneador_Compulsivo</meneame:user>
-		<meneame:clicks>2176</meneame:clicks>
-		<meneame:votes>316</meneame:votes>
+		<meneame:clicks>2223</meneame:clicks>
+		<meneame:votes>321</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
-		<meneame:karma>2489</meneame:karma>
-		<meneame:comments>188</meneame:comments>
+		<meneame:karma>2515</meneame:karma>
+		<meneame:comments>190</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/hombre-detenido-violar-joven-22-anos-despues-banarse-playa-herir?utm_source=meneame_rss</meneame:url>
 		<title>Un hombre detenido por violar a una joven de 22 años después de bañarse en la playa de Malvarrosa (Valencia) y herir a un agente durante el arresto</title>
 		<link>https://www.meneame.net/story/hombre-detenido-violar-joven-22-anos-despues-banarse-playa-herir</link>
@@ -1023,10 +1295,10 @@
 		<meneame:sub>ccss</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1080</meneame:clicks>
-		<meneame:votes>253</meneame:votes>
+		<meneame:clicks>1101</meneame:clicks>
+		<meneame:votes>256</meneame:votes>
 		<meneame:negatives>6</meneame:negatives>
-		<meneame:karma>1578</meneame:karma>
+		<meneame:karma>1593</meneame:karma>
 		<meneame:comments>184</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/cientificos-propone-reducir-poblacion-mundial-mitad-salvar?utm_source=meneame_rss</meneame:url>
 		<title>Científicos propone reducir la población mundial a la mitad para &#34;salvar&#34; el planeta</title>
@@ -1049,10 +1321,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Ratoncolorao</meneame:user>
-		<meneame:clicks>3282</meneame:clicks>
-		<meneame:votes>659</meneame:votes>
+		<meneame:clicks>3325</meneame:clicks>
+		<meneame:votes>666</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
-		<meneame:karma>4193</meneame:karma>
+		<meneame:karma>4231</meneame:karma>
 		<meneame:comments>70</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/rafael-martinez-sobrino-almeida-fichado-griso-fue-expulsado-ebau?utm_source=meneame_rss</meneame:url>
 		<title>Rafael Martínez, el sobrino de Almeida fichado por Griso que fue expulsado de la EBAU por copiar</title>
@@ -1071,277 +1343,6 @@
 		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211904.webp?1788178086' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El sobrino del alcalde de Madrid se incorpora al magacín de Antena 3 arrastrando un historial en X marcado por la xenofobia, los ataques a periodistas y los insultos machistas.</p><p><strong>etiquetas</strong>: rafael martínez, sobrino, almeida, carapollita, ebau, griso</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211904" >noticia original</a> (www.elplural.com)</p>]]></description>
 		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211904.webp?1788178086" width='155' height='155' />
 		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211904</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211821</meneame:link_id>
-		<meneame:sub>Viñetas</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Free_palestine</meneame:user>
-		<meneame:clicks>2979</meneame:clicks>
-		<meneame:votes>221</meneame:votes>
-		<meneame:negatives>8</meneame:negatives>
-		<meneame:karma>1698</meneame:karma>
-		<meneame:comments>35</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/todo-tranquilo?utm_source=meneame_rss</meneame:url>
-		<title>Todo tranquilo</title>
-		<link>https://www.meneame.net/story/todo-tranquilo</link>
-		<comments>https://www.meneame.net/story/todo-tranquilo</comments>
-		<pubDate>Mon, 31 Aug 2026 14:40:02 +0000</pubDate>
-		<dc:creator>Free_palestine</dc:creator>
-		<category><![CDATA[Viñetas]]></category>
-		<category><![CDATA[ceuta]]></category>
-		<category><![CDATA[policía]]></category>
-		<category><![CDATA[invasión]]></category>
-		<category><![CDATA[marruecos]]></category>
-		<guid>https://www.meneame.net/story/todo-tranquilo</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211821.webp?1788164226' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La viñeta de Bernardo Vergara</p><p><strong>etiquetas</strong>: ceuta, policía, invasión, marruecos</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211821" >noticia original</a> (static.eldiario.es)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211821.webp?1788164226" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211821</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211939</meneame:link_id>
-		<meneame:sub>politica</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Esteban_Rosador</meneame:user>
-		<meneame:clicks>1077</meneame:clicks>
-		<meneame:votes>463</meneame:votes>
-		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>3164</meneame:karma>
-		<meneame:comments>28</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia?utm_source=meneame_rss</meneame:url>
-		<title>La Fiscalía denuncia al ultra Alberto Pugilato por incitar al acoso y la violencia hacia Héctor de Miguel, Sarah Santaolalla y Elena Reinés</title>
-		<link>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</link>
-		<comments>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</comments>
-		<pubDate>Mon, 31 Aug 2026 14:35:19 +0000</pubDate>
-		<dc:creator>Esteban_Rosador</dc:creator>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[pugilato]]></category>
-		<category><![CDATA[fascistas]]></category>
-		<category><![CDATA[queque]]></category>
-		<category><![CDATA[santaolalla]]></category>
-		<guid>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211939.webp?1788185166' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El agitador se arrogó el mérito de provocar que De Miguel y Reinés abandonaran temporalmente la vida pública como consecuencia de los insultos y las amenazas recibidas</p><p><strong>etiquetas</strong>: pugilato, fascistas, queque, santaolalla</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211939" >noticia original</a> (www.elplural.com)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211939.webp?1788185166" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211939</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211829</meneame:link_id>
-		<meneame:sub>Idiocracia</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Yorga77</meneame:user>
-		<meneame:clicks>793</meneame:clicks>
-		<meneame:votes>302</meneame:votes>
-		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>2090</meneame:karma>
-		<meneame:comments>55</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu?utm_source=meneame_rss</meneame:url>
-		<title>Trump exige que todas las empresas canadienses que hacen negocios con EE.UU. se trasladen a Estados Unidos &#34;inmediatamente&#34; (EN)</title>
-		<link>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu</link>
-		<comments>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu</comments>
-		<pubDate>Mon, 31 Aug 2026 14:25:02 +0000</pubDate>
-		<dc:creator>Yorga77</dc:creator>
-		<category><![CDATA[Idiocracia]]></category>
-		<category><![CDATA[trump]]></category>
-		<category><![CDATA[exige]]></category>
-		<category><![CDATA[empresas]]></category>
-		<category><![CDATA[canadienses]]></category>
-		<category><![CDATA[negocios]]></category>
-		<category><![CDATA[ee.uu]]></category>
-		<guid>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211829.webp?1788164886' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Donald Trump intentó intensificar su guerra comercial con Canadá el domingo por la tarde y emitió una demanda en Truth Social para que las empresas canadienses que quieran hacer negocios con Estados Unidos reubiquen sus sedes dentro de sus fronteras.</p><p><strong>etiquetas</strong>: trump, exige, empresas, canadienses, negocios, ee.uu</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211829" >noticia original</a> (www.independent.co.uk)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211829.webp?1788164886" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211829</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211836</meneame:link_id>
-		<meneame:sub>mnm</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>mr.wolf</meneame:user>
-		<meneame:clicks>1223</meneame:clicks>
-		<meneame:votes>277</meneame:votes>
-		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1954</meneame:karma>
-		<meneame:comments>46</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses?utm_source=meneame_rss</meneame:url>
-		<title>La mujer de 70 años hallada muerta en un trastero de Triana llevaba meses alquilándolo para dormir en él</title>
-		<link>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses</link>
-		<comments>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses</comments>
-		<pubDate>Mon, 31 Aug 2026 14:05:02 +0000</pubDate>
-		<dc:creator>mr.wolf</dc:creator>
-		<category><![CDATA[mnm]]></category>
-		<category><![CDATA[vivienda]]></category>
-		<category><![CDATA[trastero]]></category>
-		<category><![CDATA[muerte]]></category>
-		<category><![CDATA[especulación]]></category>
-		<category><![CDATA[sevilla]]></category>
-		<category><![CDATA[alquiler]]></category>
-		<guid>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211836.webp?1788166026' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La investigación sobre la mujer encontrada muerta en un trastero del barrio de Triana, en Sevilla, ha permitido conocer nuevos detalles sobre las circunstancias en las que vivía. La fallecida tenía 70 años y habría alquilado aquel pequeño espacio de la calle Tejares unos cuatro meses antes del hallazgo de su cadáver.</p><p><strong>etiquetas</strong>: vivienda, trastero, muerte, especulación, sevilla, alquiler</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211836" >noticia original</a> (www.lavozdelsur.es)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211836.webp?1788166026" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211836</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211885</meneame:link_id>
-		<meneame:sub>ciencia</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Bapho</meneame:user>
-		<meneame:clicks>1008</meneame:clicks>
-		<meneame:votes>227</meneame:votes>
-		<meneame:negatives>2</meneame:negatives>
-		<meneame:karma>1724</meneame:karma>
-		<meneame:comments>17</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad?utm_source=meneame_rss</meneame:url>
-		<title>La CHJ desmonta el mito de la limpieza de la vegetación en barrancos: reduce la velocidad y ayuda a laminar las avenidas</title>
-		<link>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad</link>
-		<comments>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad</comments>
-		<pubDate>Mon, 31 Aug 2026 13:55:02 +0000</pubDate>
-		<dc:creator>Bapho</dc:creator>
-		<category><![CDATA[ciencia]]></category>
-		<category><![CDATA[chj]]></category>
-		<category><![CDATA[barrancos]]></category>
-		<category><![CDATA[limpieza]]></category>
-		<guid>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211885.webp?1788174426' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La Confederación Hidrográfica del Júcar responde por carta a la Federación Valenciana de Municipios y Provincias donde defiende que mantiene equipos durante todo el año para conservar los cauces, que en tramos urbanos son competencia de los ayuntamientos</p><p><strong>etiquetas</strong>: chj, barrancos, limpieza</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211885" >noticia original</a> (www.eldiario.es)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211885.webp?1788174426" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211885</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211903</meneame:link_id>
-		<meneame:sub>politica</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Bifaz</meneame:user>
-		<meneame:clicks>1023</meneame:clicks>
-		<meneame:votes>381</meneame:votes>
-		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>2733</meneame:karma>
-		<meneame:comments>14</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos?utm_source=meneame_rss</meneame:url>
-		<title>Exsoldados israelíes vestidos como manifestantes propalestinos a las afueras de la Universidad de Columbia [ENG]</title>
-		<link>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos</link>
-		<comments>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos</comments>
-		<pubDate>Mon, 31 Aug 2026 13:45:19 +0000</pubDate>
-		<dc:creator>Bifaz</dc:creator>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[cohen]]></category>
-		<category><![CDATA[israel]]></category>
-		<category><![CDATA[mossad]]></category>
-		<category><![CDATA[agent provocateur]]></category>
-		<category><![CDATA[columbia]]></category>
-		<category><![CDATA[frontline advocates]]></category>
-		<guid>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos</guid>
-		<description><![CDATA[<p>Miembros de Frontline Advocates, una organización sin ánimo de lucro proisraelí que colabora en proyectos específicos con el Ministerio de Asuntos Exteriores israelí, llevaban kufiyas y ondeaban banderas palestinas. Frontline Advocates, una organización sin fines de lucro proisraelí que colabora en proyectos específicos con el Ministerio de Asuntos Exteriores de Israel, instaló el martes una mesa frente a las puertas de Broadway y la calle 116 con un cartel que decía: «Somos las FDI. Hemos estado en Gaza. Pregúntennos lo que quieran».</p><p><strong>etiquetas</strong>: cohen, israel, mossad, agent provocateur, columbia, frontline advocates</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211903" >noticia original</a> (www.columbiaspectator.com)</p>]]></description>
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211903</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211869</meneame:link_id>
-		<meneame:sub>actualidad</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>mis_cojones_en_bata</meneame:user>
-		<meneame:clicks>1265</meneame:clicks>
-		<meneame:votes>309</meneame:votes>
-		<meneame:negatives>3</meneame:negatives>
-		<meneame:karma>2251</meneame:karma>
-		<meneame:comments>19</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen?utm_source=meneame_rss</meneame:url>
-		<title>La complicidad entre Alquiler Seguro y grandes inmobiliarias: siguen las estafas y amenazas a las inquilinas</title>
-		<link>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen</link>
-		<comments>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen</comments>
-		<pubDate>Mon, 31 Aug 2026 13:30:02 +0000</pubDate>
-		<dc:creator>mis_cojones_en_bata</dc:creator>
-		<category><![CDATA[actualidad]]></category>
-		<category><![CDATA[alquiler]]></category>
-		<category><![CDATA[seguro]]></category>
-		<category><![CDATA[inmobiliarias]]></category>
-		<category><![CDATA[estafa]]></category>
-		<category><![CDATA[amenazas]]></category>
-		<category><![CDATA[hijos de puta]]></category>
-		<guid>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211869.webp?1788173527' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Lidia y Mónica no se conocen entre sí, nunca han tenido la oportunidad de coincidir en un mismo espacio pero a ambas les vincula una historia muy similar. A los pocos años de migrar a Madrid, la primera desde Rusia y la segunda desde Perú, se vieron envueltas en una gran estafa inmobiliaria tras contratar los servicios de Alquiler Seguro. Aunque nunca habían fallado al pago de la renta del piso, las dos inquilinas acabaron adquiriendo una deuda que crece día a día a causa de prácticas fraudulentas más que documentadas de esta agencia.</p><p><strong>etiquetas</strong>: alquiler, seguro, inmobiliarias, estafa, amenazas, hijos de puta</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211869" >noticia original</a> (www.elsaltodiario.com)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211869.webp?1788173527" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211869</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211868</meneame:link_id>
-		<meneame:sub>politica</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Bifaz</meneame:user>
-		<meneame:clicks>716</meneame:clicks>
-		<meneame:votes>352</meneame:votes>
-		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>2417</meneame:karma>
-		<meneame:comments>10</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria?utm_source=meneame_rss</meneame:url>
-		<title>Estado de vigilancia S.A.: Cómo un grupo de empresas israelíes de piratería informática dirige la política mundial</title>
-		<link>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria</link>
-		<comments>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria</comments>
-		<pubDate>Mon, 31 Aug 2026 13:05:02 +0000</pubDate>
-		<dc:creator>Bifaz</dc:creator>
-		<category><![CDATA[politica]]></category>
-		<category><![CDATA[israel]]></category>
-		<category><![CDATA[empresa]]></category>
-		<category><![CDATA[espia]]></category>
-		<category><![CDATA[ciberseguridad]]></category>
-		<category><![CDATA[nso]]></category>
-		<category><![CDATA[team jorge]]></category>
-		<category><![CDATA[8200]]></category>
-		<category><![CDATA[mossad]]></category>
-		<guid>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211868.webp?1788171306' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Esta es la historia de décadas de amistades con hombres de negocios israelíes y antiguos funcionarios de seguridad, de contratos generosos con empresas de ciberseguridad de Israel y de alianzas empresariales que permitían la violación de los derechos humanos. Por último, esta historia demuestra el inmenso poder de la ciberseguridad israelí y de la industria de piratería informática y revela las redes invisibles que alimentan la internacional reaccionaria.</p><p><strong>etiquetas</strong>: israel, empresa, espia, ciberseguridad, nso, team jorge, 8200, mossad</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211868" >noticia original</a> (reactionary.international)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211868.webp?1788171306" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211868</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211886</meneame:link_id>
-		<meneame:sub>actualidad</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>kaos_subversivo</meneame:user>
-		<meneame:clicks>2522</meneame:clicks>
-		<meneame:votes>215</meneame:votes>
-		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1734</meneame:karma>
-		<meneame:comments>73</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz?utm_source=meneame_rss</meneame:url>
-		<title>Superpetrolero impacta contra 2 minas navales en ruta ilegal en Ormuz</title>
-		<link>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz</link>
-		<comments>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz</comments>
-		<pubDate>Mon, 31 Aug 2026 12:45:20 +0000</pubDate>
-		<dc:creator>kaos_subversivo</dc:creator>
-		<category><![CDATA[actualidad]]></category>
-		<category><![CDATA[irán]]></category>
-		<category><![CDATA[ormuz]]></category>
-		<category><![CDATA[superpetrolero]]></category>
-		<category><![CDATA[minas]]></category>
-		<guid>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211886.webp?1788174546' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El CGRI de Irán ha anunciado que un superpetrolero que infringía las normas de seguridad del estrecho de Ormuz sufrió graves incendios después de impactar con dos minas marinas.</p><p><strong>etiquetas</strong>: irán, ormuz, superpetrolero, minas</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211886" >noticia original</a> (www.tercerainformacion.es)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211886.webp?1788174546" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211886</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211807</meneame:link_id>
-		<meneame:sub>ocio</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Regreso</meneame:user>
-		<meneame:clicks>4097</meneame:clicks>
-		<meneame:votes>121</meneame:votes>
-		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1057</meneame:karma>
-		<meneame:comments>66</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw?utm_source=meneame_rss</meneame:url>
-		<title>Infinite Slop, un canal de TV interactivo e infinito generado por IA [NSFW]</title>
-		<link>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw</link>
-		<comments>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw</comments>
-		<pubDate>Mon, 31 Aug 2026 12:05:02 +0000</pubDate>
-		<dc:creator>Regreso</dc:creator>
-		<category><![CDATA[ocio]]></category>
-		<category><![CDATA[video]]></category>
-		<category><![CDATA[streaming]]></category>
-		<category><![CDATA[ai]]></category>
-		<category><![CDATA[live]]></category>
-		<category><![CDATA[chat]]></category>
-		<guid>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211807.webp?1788162066' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El video se genera más rápido que lo que se tarda en verlo, lo que permite un canal de televisión infinito. El sistema trata de crear un hilo con cierta coherencia apoyándose en los prompts que los usuarios escriben en el chat. Link directo: <a href="https://levels.io/infinite-slop" title="levels.io/infinite-slop" rel="nofollow">levels.io/infinite-slop</a></p><p><strong>etiquetas</strong>: video, streaming, ai, live, chat</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211807" >noticia original</a> (levels.io)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211807.webp?1788162066" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211807</wfw:commentRss>	</item>
 
 </channel>
 </rss>
