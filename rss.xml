@@ -1,0 +1,1342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:media="http://search.yahoo.com/mrss/"
+	xmlns:meneame="http://meneame.net/faq-es.php"
+ >
+<channel>
+	<title>Menéame: publicadas</title>
+	<atom:link href="http://www.meneame.net/rss2.php" rel="self" type="application/rss+xml" />
+	<link>http://www.meneame.net</link>
+	<image><title>Menéame: publicadas</title><link>http://www.meneame.net</link><url>http://cdn.mnmstatic.net/img/mnm/eli-rss.png</url></image>
+	<description>Sitio colaborativo de publicación y comunicación entre blogs</description>
+	<pubDate>Tue, 01 Sep 2026 08:35:03 +0000</pubDate>
+	<generator>http://blog.meneame.net/</generator>
+	<language>es</language>
+	<atom:link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+	<item>
+		<meneame:link_id>4212115</meneame:link_id>
+		<meneame:sub>ciencia</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>ccguy</meneame:user>
+		<meneame:clicks>137</meneame:clicks>
+		<meneame:votes>18</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>406</meneame:karma>
+		<meneame:comments>13</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/cuando-palabra-no-cabe-carril-carretera-fragmento-debe-ir?utm_source=meneame_rss</meneame:url>
+		<title>Cuando una palabra no cabe en el carril de la carretera, ¿qué fragmento debe ir primero?</title>
+		<link>https://www.meneame.net/story/cuando-palabra-no-cabe-carril-carretera-fragmento-debe-ir</link>
+		<comments>https://www.meneame.net/story/cuando-palabra-no-cabe-carril-carretera-fragmento-debe-ir</comments>
+		<pubDate>Tue, 01 Sep 2026 08:35:03 +0000</pubDate>
+		<dc:creator>ccguy</dc:creator>
+		<category><![CDATA[ciencia]]></category>
+		<category><![CDATA[señalización vial]]></category>
+		<category><![CDATA[lectura]]></category>
+		<category><![CDATA[conducción]]></category>
+		<category><![CDATA[carreteras]]></category>
+		<category><![CDATA[psicología]]></category>
+		<guid>https://www.meneame.net/story/cuando-palabra-no-cabe-carril-carretera-fragmento-debe-ir</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212115.webp?1788246486' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Imagine que circula por una autovía que no conoce. El navegador anuncia una salida, el tráfico ocupa los carriles contiguos y sobre el asfalto aparece un destino partido en dos líneas: LONA arriba y BARCE abajo. Durante una fracción de segundo, aquello no parece tener sentido. Después, su cerebro recompone el nombre: BARCELONA. Las letras no estaban escritas al revés, pero sus fragmentos sí aparecían en un orden poco habitual. Nuestro estudio muestra que ese pequeño cambio en la disposición de una palabra hace que tardemos más en reconocerla.</p><p><strong>etiquetas</strong>: señalización vial, lectura, conducción, carreteras, psicología</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212115" >noticia original</a> (theconversation.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212115.webp?1788246486" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212115</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212053</meneame:link_id>
+		<meneame:sub>MAmbiente</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Laro__</meneame:user>
+		<meneame:clicks>174</meneame:clicks>
+		<meneame:votes>81</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>674</meneame:karma>
+		<meneame:comments>20</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/fenomeno-nino-mas-fuerte-ultimos-1-000-anos-eng?utm_source=meneame_rss</meneame:url>
+		<title>El fenómeno del Niño es el más fuerte de los últimos 1.000 años [ENG]</title>
+		<link>https://www.meneame.net/story/fenomeno-nino-mas-fuerte-ultimos-1-000-anos-eng</link>
+		<comments>https://www.meneame.net/story/fenomeno-nino-mas-fuerte-ultimos-1-000-anos-eng</comments>
+		<pubDate>Tue, 01 Sep 2026 08:10:02 +0000</pubDate>
+		<dc:creator>Laro__</dc:creator>
+		<category><![CDATA[MAmbiente]]></category>
+		<category><![CDATA[clima]]></category>
+		<category><![CDATA[el niño]]></category>
+		<category><![CDATA[enso]]></category>
+		<category><![CDATA[galápagos]]></category>
+		<category><![CDATA[paleoclimatología]]></category>
+		<category><![CDATA[ciencia]]></category>
+		<guid>https://www.meneame.net/story/fenomeno-nino-mas-fuerte-ultimos-1-000-anos-eng</guid>
+		<description><![CDATA[<p>Científicos de la Universidad de Michigan reconstruyeron mil años de temperaturas marinas usando corales de Galápagos. Los datos reflejan la variabilidad térmica de El Niño durante el período preindustrial de 1000 a 1850 d.C. y sigue siendo un 16,2 por ciento mayor que durante el período de 1851 a 1982. Desde 1984 incluso supera en un 36,5 % a la era preindustrial, un incremento atribuido a factores antropogénicos.</p><p><strong>etiquetas</strong>: clima, el niño, enso, galápagos, paleoclimatología, ciencia</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212053" >noticia original</a> (arstechnica.com)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212053</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212079</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Janssen</meneame:user>
+		<meneame:clicks>310</meneame:clicks>
+		<meneame:votes>58</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>717</meneame:karma>
+		<meneame:comments>1</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/rescate-siglo-carrera-contrarreloj-salvar-vida-mas-900-nepal?utm_source=meneame_rss</meneame:url>
+		<title>El rescate del siglo: la carrera a contrarreloj para salvar la vida de más de 900 trabajadores en Nepal</title>
+		<link>https://www.meneame.net/story/rescate-siglo-carrera-contrarreloj-salvar-vida-mas-900-nepal</link>
+		<comments>https://www.meneame.net/story/rescate-siglo-carrera-contrarreloj-salvar-vida-mas-900-nepal</comments>
+		<pubDate>Tue, 01 Sep 2026 08:05:20 +0000</pubDate>
+		<dc:creator>Janssen</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[rescate]]></category>
+		<category><![CDATA[trabajadores]]></category>
+		<category><![CDATA[nepal]]></category>
+		<guid>https://www.meneame.net/story/rescate-siglo-carrera-contrarreloj-salvar-vida-mas-900-nepal</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212079.webp?1788239406' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Tan solo hicieron falta un mapa y un agujero para arrojar un mínimo de esperanza a la tragedia que han supuesto las inundaciones en Nepal, provocadas por el colapso masivo a 5.000 metros de altitud de un bloque de hielo en el Himalaya. Este lunes, los equipos de rescate han empezado a trabajar en un operativo a contrarreloj para intentar sacar con vida a los 933 trabajadores que, según la Agencia Nacional de Gestión de Desastres, se estima que han quedado atrapados dentro de las instalaciones hidroeléctricas en las que operaban.</p><p><strong>etiquetas</strong>: rescate, trabajadores, nepal</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212079" >noticia original</a> (www.elconfidencial.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212079.webp?1788239406" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212079</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212096</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Ripio</meneame:user>
+		<meneame:clicks>1015</meneame:clicks>
+		<meneame:votes>70</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>793</meneame:karma>
+		<meneame:comments>34</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/como-conseguir-teletrabajo-aunque-empresa-no-quiera?utm_source=meneame_rss</meneame:url>
+		<title>Cómo conseguir teletrabajo aunque la empresa no quiera</title>
+		<link>https://www.meneame.net/story/como-conseguir-teletrabajo-aunque-empresa-no-quiera</link>
+		<comments>https://www.meneame.net/story/como-conseguir-teletrabajo-aunque-empresa-no-quiera</comments>
+		<pubDate>Tue, 01 Sep 2026 07:45:19 +0000</pubDate>
+		<dc:creator>Ripio</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[teletrabajo]]></category>
+		<category><![CDATA[empresas]]></category>
+		<guid>https://www.meneame.net/story/como-conseguir-teletrabajo-aunque-empresa-no-quiera</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212096.webp?1788242946' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Hay dos tipos de teletrabajo en lo que respecta a la forma de acceder al mismo. Tenemos el teletrabajo por acuerdo entre las partes, que en su inicio no es un derecho de los trabajadores, por lo que no se puede conseguir por las malas, a no ser que lo establezca el convenio. Pero también tenemos el teletrabajo como medida de conciliación familiar, que sí que es un derecho de los trabajadores y que por tanto sí que se puede conseguir por las malas y gratis.</p><p><strong>etiquetas</strong>: teletrabajo, empresas</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212096" >noticia original</a> (laboro-spain.blogspot.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212096.webp?1788242946" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212096</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212092</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>News333</meneame:user>
+		<meneame:clicks>504</meneame:clicks>
+		<meneame:votes>112</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>924</meneame:karma>
+		<meneame:comments>24</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/criminalizacion-vecinas-carrito-avanza-donostia?utm_source=meneame_rss</meneame:url>
+		<title>La criminalización de las vecinas con carrito avanza en Donostia</title>
+		<link>https://www.meneame.net/story/criminalizacion-vecinas-carrito-avanza-donostia</link>
+		<comments>https://www.meneame.net/story/criminalizacion-vecinas-carrito-avanza-donostia</comments>
+		<pubDate>Tue, 01 Sep 2026 07:40:02 +0000</pubDate>
+		<dc:creator>News333</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[carritos]]></category>
+		<category><![CDATA[donostia]]></category>
+		<category><![CDATA[bocadillos]]></category>
+		<category><![CDATA[solidaridad]]></category>
+		<category><![CDATA[insausti]]></category>
+		<category><![CDATA[pnv]]></category>
+		<category><![CDATA[cenas]]></category>
+		<guid>https://www.meneame.net/story/criminalizacion-vecinas-carrito-avanza-donostia</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212092.webp?1788242586' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Las voluntarias que reparten bocadillos están en el punto de mira de grupos ultras que exigen contundencia mientras difunden vídeos sin su permiso. Prosiguen las inspecciones de carritos de la compra y las identificaciones policiales por orden del alcalde Insausti (PNV). Harrera Sarea y KAS ponen pie en pared ante el señalamiento.</p><p><strong>etiquetas</strong>: carritos, donostia, bocadillos, solidaridad, insausti, pnv, cenas</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212092" >noticia original</a> (www.elsaltodiario.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212092.webp?1788242586" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212092</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212050</meneame:link_id>
+		<meneame:sub>Putas</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Dragstat</meneame:user>
+		<meneame:clicks>354</meneame:clicks>
+		<meneame:votes>126</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>847</meneame:karma>
+		<meneame:comments>46</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/tailandia-emite-advertencia-sobre-prostitucion-mientras-5-000?utm_source=meneame_rss</meneame:url>
+		<title>Tailandia emite una advertencia sobre prostitución mientras 5.000 marineros estadounidenses llegan a una ciudad turística después de 200 días en el mar [EN]</title>
+		<link>https://www.meneame.net/story/tailandia-emite-advertencia-sobre-prostitucion-mientras-5-000</link>
+		<comments>https://www.meneame.net/story/tailandia-emite-advertencia-sobre-prostitucion-mientras-5-000</comments>
+		<pubDate>Tue, 01 Sep 2026 07:25:02 +0000</pubDate>
+		<dc:creator>Dragstat</dc:creator>
+		<category><![CDATA[Putas]]></category>
+		<category><![CDATA[prostitución]]></category>
+		<category><![CDATA[tailandia]]></category>
+		<category><![CDATA[marineros]]></category>
+		<guid>https://www.meneame.net/story/tailandia-emite-advertencia-sobre-prostitucion-mientras-5-000</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212050.webp?1788211926' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>&quot;El riesgo para la salud y la seguridad, como la afluencia de un gran número de clientes, puede aumentar la probabilidad de explotación sexual y la propagación de enfermedades de transmisión sexual&quot;. El impacto comercial general en Pattaya, que tiene más de 300.000 habitaciones, dependería en parte de dónde el personal decidiera pasar su tiempo. &quot;Cuando escuchamos la noticia de que un buque de guerra de la Marina de Estados Unidos atracaría en Pattaya, se convirtió en una fuente de esperanza para nosotros&quot;.</p><p><strong>etiquetas</strong>: prostitución, tailandia, marineros</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212050" >noticia original</a> (www.independent.co.uk)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212050.webp?1788211926" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212050</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212046</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Supercinexin</meneame:user>
+		<meneame:clicks>173</meneame:clicks>
+		<meneame:votes>175</meneame:votes>
+		<meneame:negatives>3</meneame:negatives>
+		<meneame:karma>1250</meneame:karma>
+		<meneame:comments>25</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar?utm_source=meneame_rss</meneame:url>
+		<title>ACO denuncia ante la Fiscalía a Figaredo por un delito de incitación al odio y la violencia al llamar a “cazar” menores migrantes en Ceuta</title>
+		<link>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar</link>
+		<comments>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar</comments>
+		<pubDate>Tue, 01 Sep 2026 06:35:19 +0000</pubDate>
+		<dc:creator>Supercinexin</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[figaredo]]></category>
+		<category><![CDATA[vox]]></category>
+		<category><![CDATA[aco]]></category>
+		<category><![CDATA[acción contra el odio]]></category>
+		<category><![CDATA[denuncias]]></category>
+		<category><![CDATA[ceuta]]></category>
+		<category><![CDATA[menores]]></category>
+		<guid>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212046.webp?1788210006' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La asociación Acción Contra el Odio (ACO) ha denunciado ante la Fiscalía General de Delitos de Odio al diputado y portavoz adjunto de Vox en el Congreso de los Diputados, José María Figaredo, por un posible delito de incitación al odio y a la violencia contra las personas migrantes, particularmente menores de origen marroquí, contemplado en el artículo 510 y siguientes del Código Penal.  La denuncia se basa en las declaraciones realizadas por el representante del partido de ultraderecha en el programa de televisión “En Boca de Todos”.</p><p><strong>etiquetas</strong>: figaredo, vox, aco, acción contra el odio, denuncias, ceuta, menores</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212046" >noticia original</a> (acoctxt.org)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212046.webp?1788210006" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212046</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212060</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>cocolisto</meneame:user>
+		<meneame:clicks>294</meneame:clicks>
+		<meneame:votes>154</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1247</meneame:karma>
+		<meneame:comments>13</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/secretario-ejercito-eeuu-dan-driscoll-presenta-dimision-tras?utm_source=meneame_rss</meneame:url>
+		<title>El secretario del ejército de EEUU , Dan Driscoll, presenta su dimisión tras tensiones con Hegseth (inglés)</title>
+		<link>https://www.meneame.net/story/secretario-ejercito-eeuu-dan-driscoll-presenta-dimision-tras</link>
+		<comments>https://www.meneame.net/story/secretario-ejercito-eeuu-dan-driscoll-presenta-dimision-tras</comments>
+		<pubDate>Tue, 01 Sep 2026 05:35:19 +0000</pubDate>
+		<dc:creator>cocolisto</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[secretario del ejército]]></category>
+		<category><![CDATA[dan driscoll]]></category>
+		<category><![CDATA[dimisión]]></category>
+		<category><![CDATA[hegseth]]></category>
+		<guid>https://www.meneame.net/story/secretario-ejercito-eeuu-dan-driscoll-presenta-dimision-tras</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212060.webp?1788216666' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Una fuente dijo que la decisión no era sorprendente dada la tensión entre Driscoll y el secretario de Defensa, Pete Hegseth. La salida de Driscoll, un veterano del ejército y viejo amigo personal del vicepresidente JD Vance, se produce después de meses de fricciones con Hegseth. Esto también ocurre seis meses después del inicio de la guerra con Irán, que no muestra señales de terminar. A principios de este año, Hegseth despidió al jefe del Estado Mayor del Ejército, el general. Randy George y otros dos generales. George y Dricoll trabajaron..</p><p><strong>etiquetas</strong>: secretario del ejército, dan driscoll, dimisión, hegseth</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212060" >noticia original</a> (edition.cnn.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212060.webp?1788216666" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212060</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211747</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Bifaz</meneame:user>
+		<meneame:clicks>1593</meneame:clicks>
+		<meneame:votes>120</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1005</meneame:karma>
+		<meneame:comments>34</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/seis-lecciones-roy-cohn-enseno-trump-todavia-usa-hoy?utm_source=meneame_rss</meneame:url>
+		<title>Las seis lecciones que Roy Cohn le enseñó a Trump (y que todavía usa hoy) [ENG]</title>
+		<link>https://www.meneame.net/story/seis-lecciones-roy-cohn-enseno-trump-todavia-usa-hoy</link>
+		<comments>https://www.meneame.net/story/seis-lecciones-roy-cohn-enseno-trump-todavia-usa-hoy</comments>
+		<pubDate>Tue, 01 Sep 2026 04:50:02 +0000</pubDate>
+		<dc:creator>Bifaz</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[roy cohn]]></category>
+		<category><![CDATA[lecciones]]></category>
+		<category><![CDATA[donald trump]]></category>
+		<guid>https://www.meneame.net/story/seis-lecciones-roy-cohn-enseno-trump-todavia-usa-hoy</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211747.webp?1788126186' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Roy Cohn le enseñó a Donald Trump las seis reglas para dominar situaciones y personas. Estas son esas reglas y se puede ver que Trump las utiliza hasta el día de hoy con fines brutales (extraído del libro El último presidente estadounidense). 1. Nunca te disculpes ni admitas haber actuado mal, nunca. 2. Siempre contraataca, y siempre con mayor fuerza de la que recibiste. 3. Utiliza el sistema legal como arma, no como recurso para obtener justicia. 4. Manipula los medios de comunicación sin piedad. 5. Usa el miedo como escudo y como arma. 6...</p><p><strong>etiquetas</strong>: roy cohn, lecciones, donald trump</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211747" >noticia original</a> (ideas.bkconnection.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211747.webp?1788126186" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211747</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211666</meneame:link_id>
+		<meneame:sub>Venezuela</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>arllutoquintumi</meneame:user>
+		<meneame:clicks>1221</meneame:clicks>
+		<meneame:votes>113</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>888</meneame:karma>
+		<meneame:comments>51</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/maduro-aparece-nuevas-imagenes-durante-encierro-estados-unidos?utm_source=meneame_rss</meneame:url>
+		<title>Maduro aparece en nuevas imágenes durante su encierro en Estados Unidos</title>
+		<link>https://www.meneame.net/story/maduro-aparece-nuevas-imagenes-durante-encierro-estados-unidos</link>
+		<comments>https://www.meneame.net/story/maduro-aparece-nuevas-imagenes-durante-encierro-estados-unidos</comments>
+		<pubDate>Tue, 01 Sep 2026 03:55:05 +0000</pubDate>
+		<dc:creator>arllutoquintumi</dc:creator>
+		<category><![CDATA[Venezuela]]></category>
+		<category><![CDATA[nicolás]]></category>
+		<category><![CDATA[maduro]]></category>
+		<category><![CDATA[eeuu]]></category>
+		<guid>https://www.meneame.net/story/maduro-aparece-nuevas-imagenes-durante-encierro-estados-unidos</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/43/media_thumb-link-4211666.webp?1788107826' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La cuenta oficial de Nicolás Maduro en la red social X ha publicado nuevas imágenes del dirigente venezolano durante su encierro en Estados Unidos, con aspecto animado y como un &quot;pequeño regalo de amor y esperanza&quot;, para su familia en particular.</p><p><strong>etiquetas</strong>: nicolás, maduro, eeuu</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211666" >noticia original</a> (www.europapress.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/43/media_thumb-link-4211666.webp?1788107826" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211666</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212011</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>TheShrike</meneame:user>
+		<meneame:clicks>1520</meneame:clicks>
+		<meneame:votes>165</meneame:votes>
+		<meneame:negatives>15</meneame:negatives>
+		<meneame:karma>1188</meneame:karma>
+		<meneame:comments>62</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/opinion-saber-pobre?utm_source=meneame_rss</meneame:url>
+		<title>Opinión: Saber que se es pobre</title>
+		<link>https://www.meneame.net/story/opinion-saber-pobre</link>
+		<comments>https://www.meneame.net/story/opinion-saber-pobre</comments>
+		<pubDate>Tue, 01 Sep 2026 02:50:03 +0000</pubDate>
+		<dc:creator>TheShrike</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[españa]]></category>
+		<category><![CDATA[economía]]></category>
+		<category><![CDATA[pobreza]]></category>
+		<category><![CDATA[estilo de vida español]]></category>
+		<guid>https://www.meneame.net/story/opinion-saber-pobre</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212011.webp?1788199326' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Durante años se sostuvo una especie de pacto psicológico según el cual en España quizá se ganaba menos, sí, pero se compensaba con una vida más barata, amable y disfrutona. Ese pacto se ha roto. La vivienda se ha convertido en una trituradora de la juventud y de la clase media (si es que queda). La inflación ha terminado de rematar lo que los salarios no podían compensar. Comer fuera, llenar la nevera, reformar una casa, criar un hijo o simplemente proyectar una vida mínimamente estable se ha vuelto insultantemente oneroso.</p><p><strong>etiquetas</strong>: españa, economía, pobreza, estilo de vida español</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212011" >noticia original</a> (disidentia.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212011.webp?1788199326" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212011</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211944</meneame:link_id>
+		<meneame:sub>cultura</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>benjami</meneame:user>
+		<meneame:clicks>419</meneame:clicks>
+		<meneame:votes>106</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>833</meneame:karma>
+		<meneame:comments>26</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/paco-lucia-1988-padre-decia-pequeno-no-estudiara-musica-porque?utm_source=meneame_rss</meneame:url>
+		<title>Paco de Lucía, en 1988: &#34;Mi padre me decía de pequeño que no estudiara música, porque si aprendía iba a perder la espontaneidad&#34;</title>
+		<link>https://www.meneame.net/story/paco-lucia-1988-padre-decia-pequeno-no-estudiara-musica-porque</link>
+		<comments>https://www.meneame.net/story/paco-lucia-1988-padre-decia-pequeno-no-estudiara-musica-porque</comments>
+		<pubDate>Tue, 01 Sep 2026 05:25:05 +0000</pubDate>
+		<dc:creator>benjami</dc:creator>
+		<category><![CDATA[cultura]]></category>
+		<category><![CDATA[paco de lucía]]></category>
+		<category><![CDATA[guitarra]]></category>
+		<category><![CDATA[talento]]></category>
+		<guid>https://www.meneame.net/story/paco-lucia-1988-padre-decia-pequeno-no-estudiara-musica-porque</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211944.webp?1788186426' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Por supuesto, no fue un proceso inmediato ni sencillo. De hecho, Paco de Lucía lo describía como un trabajo largo, casi de investigación personal: &quot;Fue un trabajo de muchísimo tiempo, pero fue una satisfacción porque ha sido la única vez que yo he trabajado en serio&quot;. Lo interesante es que contrapone ese esfuerzo consciente al resto de su trayectoria, que él mismo definía como más intuitiva: &quot;Yo siempre he tocado la guitarra como una cosa natural, me la agarraba para divertirme&quot;.</p><p><strong>etiquetas</strong>: paco de lucía, guitarra, talento</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211944" >noticia original</a> (www.esquire.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211944.webp?1788186426" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211944</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212061</meneame:link_id>
+		<meneame:sub>ocio</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Albarkas</meneame:user>
+		<meneame:clicks>2301</meneame:clicks>
+		<meneame:votes>180</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1480</meneame:karma>
+		<meneame:comments>12</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/camera-cafe-17-anos-despues-directivos-les-pareciamos-todos-feos?utm_source=meneame_rss</meneame:url>
+		<title>‘Camera Café’, 17 años después: “A los directivos les parecíamos todos feos”</title>
+		<link>https://www.meneame.net/story/camera-cafe-17-anos-despues-directivos-les-pareciamos-todos-feos</link>
+		<comments>https://www.meneame.net/story/camera-cafe-17-anos-despues-directivos-les-pareciamos-todos-feos</comments>
+		<pubDate>Tue, 01 Sep 2026 01:15:03 +0000</pubDate>
+		<dc:creator>Albarkas</dc:creator>
+		<category><![CDATA[ocio]]></category>
+		<category><![CDATA[camera café]]></category>
+		<category><![CDATA[todos feos]]></category>
+		<guid>https://www.meneame.net/story/camera-cafe-17-anos-despues-directivos-les-pareciamos-todos-feos</guid>
+		<description><![CDATA[<p>El 1 de septiembre de 2009 se emitía el último capítulo de una comedia sobre lo absurdo del día a día en una empresa que hoy sigue calando entre un público intergeneracional</p><p><strong>etiquetas</strong>: camera café, todos feos</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212061" >noticia original</a> (elpais.com)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212061</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211983</meneame:link_id>
+		<meneame:sub>tecnología</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>josde</meneame:user>
+		<meneame:clicks>1396</meneame:clicks>
+		<meneame:votes>86</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>403</meneame:karma>
+		<meneame:comments>32</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras?utm_source=meneame_rss</meneame:url>
+		<title>El sistema operativo GentleOS le brinda una nueva vida a las computadoras antiguas</title>
+		<link>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras</link>
+		<comments>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras</comments>
+		<pubDate>Tue, 01 Sep 2026 00:30:02 +0000</pubDate>
+		<dc:creator>josde</dc:creator>
+		<category><![CDATA[tecnología]]></category>
+		<category><![CDATA[centle]]></category>
+		<category><![CDATA[os]]></category>
+		<category><![CDATA[sistema]]></category>
+		<category><![CDATA[operativo]]></category>
+		<category><![CDATA[nueva]]></category>
+		<category><![CDATA[vida]]></category>
+		<category><![CDATA[ordenadores]]></category>
+		<category><![CDATA[años 80]]></category>
+		<guid>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211983.webp?1788193926' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>GentleOS puede funcionar incluso con modelos de los años 80, ofreciendo una interfaz moderna y un conjunto de aplicaciones y juegos esenciales. El sistema operativo GentleOS es un guiño a los aficionados y entusiastas de la informática vintage. Pero no es solo eso. Es capaz de recuperar esa computadora antigua que tienes guardada en casa y que pensabas que nunca más podrías volver a usar. GentleOS ha sido presentado con mucho interés en varios foros especializados y lo mejor de todo es que está disponible como un proyecto de código abierto</p><p><strong>etiquetas</strong>: centle, os, sistema, operativo, nueva, vida, ordenadores, años 80</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211983" >noticia original</a> (es.wired.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211983.webp?1788193926" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211983</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211980</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>JanSmite</meneame:user>
+		<meneame:clicks>407</meneame:clicks>
+		<meneame:votes>194</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1426</meneame:karma>
+		<meneame:comments>26</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/agente-policia-georgia-suspendido-funciones-tras-matar-burrito?utm_source=meneame_rss</meneame:url>
+		<title>Un agente de policía de Georgia, suspendido de sus funciones tras matar al burrito que era la mascota de una familia durante una búsqueda [Ing]</title>
+		<link>https://www.meneame.net/story/agente-policia-georgia-suspendido-funciones-tras-matar-burrito</link>
+		<comments>https://www.meneame.net/story/agente-policia-georgia-suspendido-funciones-tras-matar-burrito</comments>
+		<pubDate>Mon, 31 Aug 2026 23:40:02 +0000</pubDate>
+		<dc:creator>JanSmite</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[policía burro]]></category>
+		<category><![CDATA[burro]]></category>
+		<category><![CDATA[registro]]></category>
+		<category><![CDATA[suspensión]]></category>
+		<guid>https://www.meneame.net/story/agente-policia-georgia-suspendido-funciones-tras-matar-burrito</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211980.webp?1788193926' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Un agente de policía del estado de Georgia (EE.UU.) ha sido suspendido de sus funciones después de que el burrito mascota de una familia fuera abatido a tiros durante un registro realizado a primera hora de la mañana en su propiedad. Los agentes se encontraban en su prado sin previo aviso ni permiso sobre las 12:45 horas del domingo, […], cuando se toparon con el pequeño burrito macho llamado HeeHaw. Salió rebuznando al ver a unos desconocidos en la granja Elsberry, en Rockmart, y fue abatido a tiros por un agente que lo consideró peligroso.</p><p><strong>etiquetas</strong>: policía burro, burro, registro, suspensión</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211980" >noticia original</a> (www.theguardian.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211980.webp?1788193926" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211980</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211989</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>chikita</meneame:user>
+		<meneame:clicks>786</meneame:clicks>
+		<meneame:votes>127</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>1099</meneame:karma>
+		<meneame:comments>25</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/muere-joven-25-anos-tras-incendiarse-unos-trasteros-bicicletas?utm_source=meneame_rss</meneame:url>
+		<title>Muere un joven de 25 años tras incendiarse unos trasteros con bicicletas eléctricas en Arganzuela</title>
+		<link>https://www.meneame.net/story/muere-joven-25-anos-tras-incendiarse-unos-trasteros-bicicletas</link>
+		<comments>https://www.meneame.net/story/muere-joven-25-anos-tras-incendiarse-unos-trasteros-bicicletas</comments>
+		<pubDate>Mon, 31 Aug 2026 22:50:20 +0000</pubDate>
+		<dc:creator>chikita</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[incendiarse]]></category>
+		<category><![CDATA[trasteros]]></category>
+		<category><![CDATA[bicicletas]]></category>
+		<category><![CDATA[eléctricas]]></category>
+		<category><![CDATA[arganzuela]]></category>
+		<guid>https://www.meneame.net/story/muere-joven-25-anos-tras-incendiarse-unos-trasteros-bicicletas</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211989.webp?1788195306' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El suceso tuvo lugar en la calle Canarias, donde acudieron trece dotaciones de Bomberos Madrid que se han encontrado con un fuego completamente desarrollado, ubicado en la planta menos uno, concretamente en un sótano.</p><p><strong>etiquetas</strong>: incendiarse, trasteros, bicicletas, eléctricas, arganzuela</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211989" >noticia original</a> (www.20minutos.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211989.webp?1788195306" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211989</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4212040</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Enunlugardelamancha</meneame:user>
+		<meneame:clicks>1285</meneame:clicks>
+		<meneame:votes>252</meneame:votes>
+		<meneame:negatives>4</meneame:negatives>
+		<meneame:karma>1843</meneame:karma>
+		<meneame:comments>31</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/detectives-vigilancia-despido-golpe-judicial-recibe-mercadona?utm_source=meneame_rss</meneame:url>
+		<title>Detectives, vigilancia y despido: el golpe judicial que recibe Mercadona en Castilla-La Mancha con una trabajadora</title>
+		<link>https://www.meneame.net/story/detectives-vigilancia-despido-golpe-judicial-recibe-mercadona</link>
+		<comments>https://www.meneame.net/story/detectives-vigilancia-despido-golpe-judicial-recibe-mercadona</comments>
+		<pubDate>Mon, 31 Aug 2026 22:00:19 +0000</pubDate>
+		<dc:creator>Enunlugardelamancha</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[mercadona]]></category>
+		<guid>https://www.meneame.net/story/detectives-vigilancia-despido-golpe-judicial-recibe-mercadona</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212040.webp?1788210902' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Mercadona ha sufrido un revés judicial en Castilla-La Mancha después de despedir a una trabajadora que se encontraba de baja médica y a la que llegó a vigilar mediante detectives privados</p><p><strong>etiquetas</strong>: mercadona</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4212040" >noticia original</a> (www.eldigitaldealbacete.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4212040.webp?1788210902" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4212040</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211948</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Mangione</meneame:user>
+		<meneame:clicks>554</meneame:clicks>
+		<meneame:votes>252</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1933</meneame:karma>
+		<meneame:comments>29</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/pentagono-furioso-filtracion-informacion-clasificada-sobre-iran?utm_source=meneame_rss</meneame:url>
+		<title>El Pentágono, furioso por la filtración de información clasificada sobre la disconformidad con la guerra contra Irán [Eng]</title>
+		<link>https://www.meneame.net/story/pentagono-furioso-filtracion-informacion-clasificada-sobre-iran</link>
+		<comments>https://www.meneame.net/story/pentagono-furioso-filtracion-informacion-clasificada-sobre-iran</comments>
+		<pubDate>Mon, 31 Aug 2026 21:35:19 +0000</pubDate>
+		<dc:creator>Mangione</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[pentágono]]></category>
+		<category><![CDATA[usa]]></category>
+		<category><![CDATA[pete hegseth]]></category>
+		<category><![CDATA[iran]]></category>
+		<category><![CDATA[guerra insostenible]]></category>
+		<category><![CDATA[oposición]]></category>
+		<category><![CDATA[ejército]]></category>
+		<guid>https://www.meneame.net/story/pentagono-furioso-filtracion-informacion-clasificada-sobre-iran</guid>
+		<description><![CDATA[<p>El Pentágono está furioso por una noticia publicada en el <i>Washington Post</i> según la cual altos mandos militares advirtieron recientemente al secretario de Defensa, Pete Hegseth, que no ampliara las operaciones a gran escala contra Irán porque es insostenible y se corre el riesgo de debilitar la capacidad de EE. UU. para hacer frente a amenazas en otros lugares, incluido el propio territorio estadounidense.</p><p><strong>etiquetas</strong>: pentágono, usa, pete hegseth, iran, guerra insostenible, oposición, ejército</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211948" >noticia original</a> (thehill.com)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211948</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211768</meneame:link_id>
+		<meneame:sub>cultura</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>ccguy</meneame:user>
+		<meneame:clicks>1014</meneame:clicks>
+		<meneame:votes>58</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>614</meneame:karma>
+		<meneame:comments>11</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/aceca-palacio-real-espana-perdio?utm_source=meneame_rss</meneame:url>
+		<title>Aceca, el palacio real que España perdió</title>
+		<link>https://www.meneame.net/story/aceca-palacio-real-espana-perdio</link>
+		<comments>https://www.meneame.net/story/aceca-palacio-real-espana-perdio</comments>
+		<pubDate>Tue, 01 Sep 2026 01:10:04 +0000</pubDate>
+		<dc:creator>ccguy</dc:creator>
+		<category><![CDATA[cultura]]></category>
+		<category><![CDATA[palacio]]></category>
+		<category><![CDATA[aceca]]></category>
+		<category><![CDATA[felipe ii]]></category>
+		<category><![CDATA[toledo]]></category>
+		<category><![CDATA[médici]]></category>
+		<guid>https://www.meneame.net/story/aceca-palacio-real-espana-perdio</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211768.webp?1788149766' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Nos encontramos en 1668. El príncipe Cosme III de Médici está de viaje por España. Y, en una breve parada en medio del periplo, su dibujante, Pier Maria Baldi, decide &quot;retratar&quot; la casa real de Aceca, hoy prácticamente desaparecida. Su propósito era formarse como futuro gobernante del Gran Ducado de Toscana. Para ello se propuso visitar y conocer los Países Bajos, Francia, Inglaterra, Portugal y, también, España. Su estancia en la península ibérica duró seis intensos meses, desplazándose desde Cataluña hasta Galicia.</p><p><strong>etiquetas</strong>: palacio, aceca, felipe ii, toledo, médici</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211768" >noticia original</a> (theconversation.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211768.webp?1788149766" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211768</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211951</meneame:link_id>
+		<meneame:sub>Artículos</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>livingstone8584</meneame:user>
+		<meneame:clicks>2017</meneame:clicks>
+		<meneame:votes>234</meneame:votes>
+		<meneame:negatives>4</meneame:negatives>
+		<meneame:karma>1410</meneame:karma>
+		<meneame:comments>37</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/derecho-frente-ultraderecha-razones-herramientas-juridicas-nueva?utm_source=meneame_rss</meneame:url>
+		<title>El Derecho frente a la ultraderecha. Razones y herramientas jurídicas contra la nueva barbarie</title>
+		<link>https://www.meneame.net/story/derecho-frente-ultraderecha-razones-herramientas-juridicas-nueva</link>
+		<comments>https://www.meneame.net/story/derecho-frente-ultraderecha-razones-herramientas-juridicas-nueva</comments>
+		<pubDate>Mon, 31 Aug 2026 14:50:33 +0000</pubDate>
+		<dc:creator>livingstone8584</dc:creator>
+		<category><![CDATA[Artículos]]></category>
+		<category><![CDATA[artículo]]></category>
+		<guid>https://www.meneame.net/story/derecho-frente-ultraderecha-razones-herramientas-juridicas-nueva</guid>
+		<description><![CDATA[<p><p>Este libro, en formato Open access y, por tanto, de acceso online totalmente gratuito, intenta justificar la incompatibilidad entre los partidos de ultraderecha y el sistema democr&aacute;tico, en la medida que sus idearios e iniciativas legislativas chocan frontalmente con sus pilares. </p><p>Tambi&eacute;n examina las principales armas que emplean para lograr su expansi&oacute;n electoral, comenzando por el discurso de odio y la desinformaci&oacute;n masiva. Y reflexiona sobre las herramientas jur&iacute;dicas y pol&iacute;ticas m&aacute;s id&oacute;neas para desactivar la amenaza que representan, incluida su ilegalizaci&oacute;n que, parad&oacute;jicamente, pese a ser jur&iacute;dicamente factible tendr&iacute;a un impacto pr&aacute;ctico limitado en la proliferaci&oacute;n de la ultraderecha si no va  acompa&ntilde;ada de una lucha decidida contra las causas sociales que la provocan.</p><p>Pod&eacute;is leerlo online, o si lo prefer&iacute;s descargarlo, de forma totalmente gratuita a trav&eacute;s de este link de la Editorial Atelier <a href="https://atelieropenaccess.com/collections/open-access/products/el-derecho-frente-a-la-ultraderecha-razones-y-herramientas-juridicas-contra-la-nueva-barbarie?fbclid=IwY2xjawUCcPtwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXU1RllLcmpYQlE5NE45dGtzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDOOCo8I-l65ElRX1KepvA3A5GcbjNk1wTDr-f_zk-PshB4s7b47u6zT_yMI_aem_5olTD-BTP2Wolph3SoTyUQ" title="atelieropenaccess.com/collections/open-access/products/el-derecho-frente-a-la-ultraderecha-razones-y-herramientas-juridicas-contra-la-nueva-barbarie?fbclid=IwY2xjawUCcPtwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXU1RllLcmpYQlE5NE45dGtzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeDOOCo8I-l65ElRX1KepvA3A5GcbjNk1wTDr-f_zk-PshB4s7b47u6zT_yMI_aem_5olTD-BTP2Wolph3SoTyUQ" rel="nofollow">atelieropenaccess.com/collections/open-access/products/el-derecho-fren</a></p></p><p><strong>etiquetas</strong>: artículo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211951" >noticia original</a> ()</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211951</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211998</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>mtrazid</meneame:user>
+		<meneame:clicks>1346</meneame:clicks>
+		<meneame:votes>159</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1309</meneame:karma>
+		<meneame:comments>2</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/muere-actor-espanol-francesc-garrido-conocido-peliculas-como-mar?utm_source=meneame_rss</meneame:url>
+		<title>Muere el actor español Francesc Garrido, conocido por películas como Mar adentro, a los 56 años</title>
+		<link>https://www.meneame.net/story/muere-actor-espanol-francesc-garrido-conocido-peliculas-como-mar</link>
+		<comments>https://www.meneame.net/story/muere-actor-espanol-francesc-garrido-conocido-peliculas-como-mar</comments>
+		<pubDate>Mon, 31 Aug 2026 20:50:02 +0000</pubDate>
+		<dc:creator>mtrazid</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[francesc garrido]]></category>
+		<category><![CDATA[actor]]></category>
+		<category><![CDATA[mar adentro]]></category>
+		<guid>https://www.meneame.net/story/muere-actor-espanol-francesc-garrido-conocido-peliculas-como-mar</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211998.webp?1788196146' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El actor español de teatro, televisión y cine Francesc Garrido ha fallecido este lunes a causa de un infarto a los 56 años. El actor era conocido por su participación en películas como Mar adentro, siendo El anfitrión, protagonizada por Willem Dafoe, uno de sus últimos proyectos.</p><p><strong>etiquetas</strong>: francesc garrido, actor, mar adentro</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211998" >noticia original</a> (cadenaser.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211998.webp?1788196146" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211998</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211997</meneame:link_id>
+		<meneame:sub>Ibiza</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Dragstat</meneame:user>
+		<meneame:clicks>933</meneame:clicks>
+		<meneame:votes>251</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1834</meneame:karma>
+		<meneame:comments>77</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/profesores-ibiza-hay-mallorquines-vienen-llorando-porque-no-aqui?utm_source=meneame_rss</meneame:url>
+		<title>Profesores en Ibiza: “hay mallorquines que vienen llorando porque no quieren estar aquí”</title>
+		<link>https://www.meneame.net/story/profesores-ibiza-hay-mallorquines-vienen-llorando-porque-no-aqui</link>
+		<comments>https://www.meneame.net/story/profesores-ibiza-hay-mallorquines-vienen-llorando-porque-no-aqui</comments>
+		<pubDate>Mon, 31 Aug 2026 20:05:02 +0000</pubDate>
+		<dc:creator>Dragstat</dc:creator>
+		<category><![CDATA[Ibiza]]></category>
+		<category><![CDATA[ibiza]]></category>
+		<category><![CDATA[profesores]]></category>
+		<category><![CDATA[vivienda]]></category>
+		<category><![CDATA[catalán]]></category>
+		<category><![CDATA[profesorado]]></category>
+		<guid>https://www.meneame.net/story/profesores-ibiza-hay-mallorquines-vienen-llorando-porque-no-aqui</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211997.webp?1788196566' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>&quot;Hay gente que viene, hace puntos y se va enseguida&quot;, y abunda, al respecto: &quot;la mayoría de la gente que conozco de interina es gente que está como de Erasmus, como si aún estuviera haciendo la carrera, porque no tienen vida familiar; comparten pisos con otros jóvenes adultos&quot;. Algunos de estos profesores &quot;comparten piso con dos o tres personas más, a disgusto y lejos de sus familias y amigos. Otros compañeros míos viven en coches, furgonetas...&quot;</p><p><strong>etiquetas</strong>: ibiza, profesores, vivienda, catalán, profesorado</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211997" >noticia original</a> (www.diariodeibiza.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211997.webp?1788196566" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211997</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211753</meneame:link_id>
+		<meneame:sub>REINO_UNIDO</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Dragstat</meneame:user>
+		<meneame:clicks>734</meneame:clicks>
+		<meneame:votes>206</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>1432</meneame:karma>
+		<meneame:comments>58</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/casas-inglaterra-valen-menos-hace-20-anos-propiedades-reino-ya?utm_source=meneame_rss</meneame:url>
+		<title>Las casas en Inglaterra valen menos que hace 20 años: las propiedades en el Reino Unido ya no pueden clasificarse como inversiones [EN]</title>
+		<link>https://www.meneame.net/story/casas-inglaterra-valen-menos-hace-20-anos-propiedades-reino-ya</link>
+		<comments>https://www.meneame.net/story/casas-inglaterra-valen-menos-hace-20-anos-propiedades-reino-ya</comments>
+		<pubDate>Mon, 31 Aug 2026 19:15:02 +0000</pubDate>
+		<dc:creator>Dragstat</dc:creator>
+		<category><![CDATA[REINO_UNIDO]]></category>
+		<category><![CDATA[reino unido]]></category>
+		<category><![CDATA[vivienda]]></category>
+		<category><![CDATA[inversión]]></category>
+		<category><![CDATA[valor]]></category>
+		<guid>https://www.meneame.net/story/casas-inglaterra-valen-menos-hace-20-anos-propiedades-reino-ya</guid>
+		<description><![CDATA[<p>Una casa típica en Inglaterra se vendió por £293.262 en junio, una suma inferior al precio de venta promedio de £296.179 en julio de 2006 después de ajustar por inflación. Los precios de la vivienda han caído £47.522 en términos reales en comparación con el pico más reciente del mercado en junio de 2021. Si bien las casas todavía valen más que hace 20 años en términos de efectivo, la inflación significa que el valor de ese efectivo no alcanza para tanto. &quot;Lo que cambió, principalmente, es que los ingresos reales no han aumentado.”</p><p><strong>etiquetas</strong>: reino unido, vivienda, inversión, valor</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211753" >noticia original</a> (www.telegraph.co.uk)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211753</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211683</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Mauro_Nacho</meneame:user>
+		<meneame:clicks>1443</meneame:clicks>
+		<meneame:votes>396</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2756</meneame:karma>
+		<meneame:comments>50</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/investigador-isaac-levi-explica-espana-uno-paises-mas-han-guerra?utm_source=meneame_rss</meneame:url>
+		<title>El investigador Isaac Levi explica por qué España es uno de los países que más se han ahorrado el sobrecoste de la guerra de Irán: &#34;Está realmente a la vanguardia&#34;</title>
+		<link>https://www.meneame.net/story/investigador-isaac-levi-explica-espana-uno-paises-mas-han-guerra</link>
+		<comments>https://www.meneame.net/story/investigador-isaac-levi-explica-espana-uno-paises-mas-han-guerra</comments>
+		<pubDate>Mon, 31 Aug 2026 18:10:02 +0000</pubDate>
+		<dc:creator>Mauro_Nacho</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[guerra de irán]]></category>
+		<category><![CDATA[energías renovables]]></category>
+		<category><![CDATA[energías fósiles]]></category>
+		<guid>https://www.meneame.net/story/investigador-isaac-levi-explica-espana-uno-paises-mas-han-guerra</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/43/media_thumb-link-4211683.webp?1788112926' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Los países han pagado 330.000 millones de dólares más por la importación de combustibles fósiles. La Unión Europea es la región que ha tenido que hacer frente al mayor aumento de los costes de importación por las compras de petróleo y gas que ha recibido. Alrededor de 78.000 millones de dólares estadounidenses solo en seis meses. Un aspecto muy destacado de este estudio es que señala lo que se han ahorrado países como España por la implantación de energía verde en su territorio ha ayudado a España a ahorrar dos mil quinientos millones de dólare</p><p><strong>etiquetas</strong>: guerra de irán, energías renovables, energías fósiles</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211683" >noticia original</a> (cadenaser.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/43/media_thumb-link-4211683.webp?1788112926" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211683</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211966</meneame:link_id>
+		<meneame:sub>Ecologíaymed</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Pixmac</meneame:user>
+		<meneame:clicks>1655</meneame:clicks>
+		<meneame:votes>367</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2483</meneame:karma>
+		<meneame:comments>36</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/batalla-salvar-singular-nogal-centenario-13-metros-used-zaragoza?utm_source=meneame_rss</meneame:url>
+		<title>La batalla por salvar un singular nogal centenario de 13 metros en Used (Zaragoza): “Le han echado herbicida&#34;</title>
+		<link>https://www.meneame.net/story/batalla-salvar-singular-nogal-centenario-13-metros-used-zaragoza</link>
+		<comments>https://www.meneame.net/story/batalla-salvar-singular-nogal-centenario-13-metros-used-zaragoza</comments>
+		<pubDate>Mon, 31 Aug 2026 17:35:02 +0000</pubDate>
+		<dc:creator>Pixmac</dc:creator>
+		<category><![CDATA[Ecologíaymed]]></category>
+		<category><![CDATA[nogal centenario]]></category>
+		<category><![CDATA[used]]></category>
+		<category><![CDATA[herbicida]]></category>
+		<category><![CDATA[farola]]></category>
+		<category><![CDATA[árbol sobresaliente]]></category>
+		<category><![CDATA[daroca]]></category>
+		<guid>https://www.meneame.net/story/batalla-salvar-singular-nogal-centenario-13-metros-used-zaragoza</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211966.webp?1788190806' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Hay un árbol que resulta difícil no ver al llegar a la localidad zaragozana de Used. Su copa sobresale por encima de los tejados y de la antigua casa que Alberto Sánchez, vecino de esta localidad del Campo de Daroca, compró hace años y está recuperando poco a poco. Es un nogal centenario de más de 13 metros de altura que se ha convertido en uno de los elementos más singulares de la vivienda y que ahora es motivo de preocupación. Su propietario ha denunciado a través de sus redes sociales que el ejemplar presenta daños que atribuye a que...</p><p><strong>etiquetas</strong>: nogal centenario, used, herbicida, farola, árbol sobresaliente, daroca</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211966" >noticia original</a> (www.aragondigital.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211966.webp?1788190806" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211966</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211978</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>YeahYa</meneame:user>
+		<meneame:clicks>4292</meneame:clicks>
+		<meneame:votes>438</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>3390</meneame:karma>
+		<meneame:comments>116</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/pijos-borrachos-yates-recreo-mejores-reacciones-armada-solidaria?utm_source=meneame_rss</meneame:url>
+		<title>&#34;Pijos borrachos en yates de recreo&#34;: las mejores reacciones a la 'Armada solidaria' de Ceuta</title>
+		<link>https://www.meneame.net/story/pijos-borrachos-yates-recreo-mejores-reacciones-armada-solidaria</link>
+		<comments>https://www.meneame.net/story/pijos-borrachos-yates-recreo-mejores-reacciones-armada-solidaria</comments>
+		<pubDate>Mon, 31 Aug 2026 16:40:19 +0000</pubDate>
+		<dc:creator>YeahYa</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[ceuta]]></category>
+		<category><![CDATA[marcos de quinto]]></category>
+		<category><![CDATA[armada solidaria]]></category>
+		<guid>https://www.meneame.net/story/pijos-borrachos-yates-recreo-mejores-reacciones-armada-solidaria</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211978.webp?1788192546' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Usuarios de X acusan a los organizadores de hacer 'turismo' mientras Ceuta 'sufre' ...</p><p><strong>etiquetas</strong>: ceuta, marcos de quinto, armada solidaria</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211978" >noticia original</a> (www.catalunyapress.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/45/media_thumb-link-4211978.webp?1788192546" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211978</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211919</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Meneador_Compulsivo</meneame:user>
+		<meneame:clicks>3009</meneame:clicks>
+		<meneame:votes>174</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>1500</meneame:karma>
+		<meneame:comments>59</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/polemico-lider-guru-india-estrena-cabina-aire-acondicionado-pies?utm_source=meneame_rss</meneame:url>
+		<title>Polémico líder gurú de la India estrena cabina con aire acondicionado para que sus seguidores puedan besar sus pies</title>
+		<link>https://www.meneame.net/story/polemico-lider-guru-india-estrena-cabina-aire-acondicionado-pies</link>
+		<comments>https://www.meneame.net/story/polemico-lider-guru-india-estrena-cabina-aire-acondicionado-pies</comments>
+		<pubDate>Mon, 31 Aug 2026 16:05:20 +0000</pubDate>
+		<dc:creator>Meneador_Compulsivo</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[india]]></category>
+		<category><![CDATA[cabina]]></category>
+		<category><![CDATA[aire acondicionado]]></category>
+		<category><![CDATA[gurú]]></category>
+		<category><![CDATA[rampal]]></category>
+		<category><![CDATA[calor]]></category>
+		<category><![CDATA[pies]]></category>
+		<guid>https://www.meneame.net/story/polemico-lider-guru-india-estrena-cabina-aire-acondicionado-pies</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211919.webp?1788181146' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El líder espiritual Sant Rampal volvió a causar gran revuelo al llevar su búsqueda de comodidad personal al extremo durante sus encuentros con sus adeptos. Famoso por pasearse acompañado por asistentes que cargaban aires acondicionados portátiles, el gurú diseñó una lujosa cabina móvil de vidrio totalmente climatizada que le permite desplazarse cómodamente. A través de los cristales,sus devotos se inclinan,tocan y besan sus pies para recibir bendiciones mientras el líder permanece protegido de las altas temperaturas y disfruta del aire fresco</p><p><strong>etiquetas</strong>: india, cabina, aire acondicionado, gurú, rampal, calor, pies</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211919" >noticia original</a> (www.aztecalaguna.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211919.webp?1788181146" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211919</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211953</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Meneador_Compulsivo</meneame:user>
+		<meneame:clicks>2114</meneame:clicks>
+		<meneame:votes>304</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>2424</meneame:karma>
+		<meneame:comments>167</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/hombre-detenido-violar-joven-22-anos-despues-banarse-playa-herir?utm_source=meneame_rss</meneame:url>
+		<title>Un hombre detenido por violar a una joven de 22 años después de bañarse en la playa de Malvarrosa (Valencia) y herir a un agente durante el arresto</title>
+		<link>https://www.meneame.net/story/hombre-detenido-violar-joven-22-anos-despues-banarse-playa-herir</link>
+		<comments>https://www.meneame.net/story/hombre-detenido-violar-joven-22-anos-despues-banarse-playa-herir</comments>
+		<pubDate>Mon, 31 Aug 2026 15:30:02 +0000</pubDate>
+		<dc:creator>Meneador_Compulsivo</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[valencia]]></category>
+		<category><![CDATA[malvarrosa]]></category>
+		<category><![CDATA[violación]]></category>
+		<category><![CDATA[agresión]]></category>
+		<guid>https://www.meneame.net/story/hombre-detenido-violar-joven-22-anos-despues-banarse-playa-herir</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211953.webp?1788188407' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La Policía Local arrestó a un hombre acusado de agredir sexualmente a una joven de 22 años con penetración en la Malvarrosa. El agresor la despojó de su vestido con violencia y la forzó sexualmente, pese a su resistencia y los gritos. Durante el ataque, el agresor tapó la boca de la joven para impedir que otros jóvenes presentes la escucharan. Aun así, un transeúnte se dio cuenta y alertó a la policía tras observar la agresión a distancia. El agresor intentó huir por la arena y durante el arresto le dio cuatro puñetazos a uno de los agentes</p><p><strong>etiquetas</strong>: valencia, malvarrosa, violación, agresión</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211953" >noticia original</a> (www.infobae.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211953.webp?1788188407" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211953</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211721</meneame:link_id>
+		<meneame:sub>ccss</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Dragstat</meneame:user>
+		<meneame:clicks>1041</meneame:clicks>
+		<meneame:votes>242</meneame:votes>
+		<meneame:negatives>6</meneame:negatives>
+		<meneame:karma>1521</meneame:karma>
+		<meneame:comments>183</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/cientificos-propone-reducir-poblacion-mundial-mitad-salvar?utm_source=meneame_rss</meneame:url>
+		<title>Científicos propone reducir la población mundial a la mitad para &#34;salvar&#34; el planeta</title>
+		<link>https://www.meneame.net/story/cientificos-propone-reducir-poblacion-mundial-mitad-salvar</link>
+		<comments>https://www.meneame.net/story/cientificos-propone-reducir-poblacion-mundial-mitad-salvar</comments>
+		<pubDate>Mon, 31 Aug 2026 15:25:02 +0000</pubDate>
+		<dc:creator>Dragstat</dc:creator>
+		<category><![CDATA[ccss]]></category>
+		<category><![CDATA[planeta]]></category>
+		<category><![CDATA[población]]></category>
+		<category><![CDATA[científicos]]></category>
+		<category><![CDATA[reducción de población]]></category>
+		<guid>https://www.meneame.net/story/cientificos-propone-reducir-poblacion-mundial-mitad-salvar</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211721.webp?1788120606' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Los investigadores que impulsan la propuesta sostienen que una población mundial más reducida facilitaría el abastecimiento de alimentos, agua y energía, disminuiría la pérdida de biodiversidad y reduciría la presión sobre los ecosistemas. Se parte de la premisa de que el planeta posee límites biofísicos y que la demanda de recursos aumenta a medida que crece la población, especialmente cuando también se incrementan los niveles de consumo. Otros estudios científicos advierten en no centrar el debate exclusivamente en el número de habitantes.</p><p><strong>etiquetas</strong>: planeta, población, científicos, reducción de población</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211721" >noticia original</a> (www.elobservador.com.uy)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211721.webp?1788120606" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211721</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211904</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Ratoncolorao</meneame:user>
+		<meneame:clicks>3174</meneame:clicks>
+		<meneame:votes>632</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>4040</meneame:karma>
+		<meneame:comments>69</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/rafael-martinez-sobrino-almeida-fichado-griso-fue-expulsado-ebau?utm_source=meneame_rss</meneame:url>
+		<title>Rafael Martínez, el sobrino de Almeida fichado por Griso que fue expulsado de la EBAU por copiar</title>
+		<link>https://www.meneame.net/story/rafael-martinez-sobrino-almeida-fichado-griso-fue-expulsado-ebau</link>
+		<comments>https://www.meneame.net/story/rafael-martinez-sobrino-almeida-fichado-griso-fue-expulsado-ebau</comments>
+		<pubDate>Mon, 31 Aug 2026 14:50:03 +0000</pubDate>
+		<dc:creator>Ratoncolorao</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[rafael martínez]]></category>
+		<category><![CDATA[sobrino]]></category>
+		<category><![CDATA[almeida]]></category>
+		<category><![CDATA[carapollita]]></category>
+		<category><![CDATA[ebau]]></category>
+		<category><![CDATA[griso]]></category>
+		<guid>https://www.meneame.net/story/rafael-martinez-sobrino-almeida-fichado-griso-fue-expulsado-ebau</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211904.webp?1788178086' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El sobrino del alcalde de Madrid se incorpora al magacín de Antena 3 arrastrando un historial en X marcado por la xenofobia, los ataques a periodistas y los insultos machistas.</p><p><strong>etiquetas</strong>: rafael martínez, sobrino, almeida, carapollita, ebau, griso</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211904" >noticia original</a> (www.elplural.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211904.webp?1788178086" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211904</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211821</meneame:link_id>
+		<meneame:sub>Viñetas</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Free_palestine</meneame:user>
+		<meneame:clicks>2901</meneame:clicks>
+		<meneame:votes>214</meneame:votes>
+		<meneame:negatives>8</meneame:negatives>
+		<meneame:karma>1661</meneame:karma>
+		<meneame:comments>35</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/todo-tranquilo?utm_source=meneame_rss</meneame:url>
+		<title>Todo tranquilo</title>
+		<link>https://www.meneame.net/story/todo-tranquilo</link>
+		<comments>https://www.meneame.net/story/todo-tranquilo</comments>
+		<pubDate>Mon, 31 Aug 2026 14:40:02 +0000</pubDate>
+		<dc:creator>Free_palestine</dc:creator>
+		<category><![CDATA[Viñetas]]></category>
+		<category><![CDATA[ceuta]]></category>
+		<category><![CDATA[policía]]></category>
+		<category><![CDATA[invasión]]></category>
+		<category><![CDATA[marruecos]]></category>
+		<guid>https://www.meneame.net/story/todo-tranquilo</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211821.webp?1788164226' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La viñeta de Bernardo Vergara</p><p><strong>etiquetas</strong>: ceuta, policía, invasión, marruecos</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211821" >noticia original</a> (static.eldiario.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211821.webp?1788164226" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211821</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211939</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Esteban_Rosador</meneame:user>
+		<meneame:clicks>1046</meneame:clicks>
+		<meneame:votes>440</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>3040</meneame:karma>
+		<meneame:comments>25</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia?utm_source=meneame_rss</meneame:url>
+		<title>La Fiscalía denuncia al ultra Alberto Pugilato por incitar al acoso y la violencia hacia Héctor de Miguel, Sarah Santaolalla y Elena Reinés</title>
+		<link>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</link>
+		<comments>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</comments>
+		<pubDate>Mon, 31 Aug 2026 14:35:19 +0000</pubDate>
+		<dc:creator>Esteban_Rosador</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[pugilato]]></category>
+		<category><![CDATA[fascistas]]></category>
+		<category><![CDATA[queque]]></category>
+		<category><![CDATA[santaolalla]]></category>
+		<guid>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211939.webp?1788185166' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El agitador se arrogó el mérito de provocar que De Miguel y Reinés abandonaran temporalmente la vida pública como consecuencia de los insultos y las amenazas recibidas</p><p><strong>etiquetas</strong>: pugilato, fascistas, queque, santaolalla</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211939" >noticia original</a> (www.elplural.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211939.webp?1788185166" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211939</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211829</meneame:link_id>
+		<meneame:sub>Idiocracia</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Yorga77</meneame:user>
+		<meneame:clicks>779</meneame:clicks>
+		<meneame:votes>292</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2030</meneame:karma>
+		<meneame:comments>55</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu?utm_source=meneame_rss</meneame:url>
+		<title>Trump exige que todas las empresas canadienses que hacen negocios con EE.UU. se trasladen a Estados Unidos &#34;inmediatamente&#34; (EN)</title>
+		<link>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu</link>
+		<comments>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu</comments>
+		<pubDate>Mon, 31 Aug 2026 14:25:02 +0000</pubDate>
+		<dc:creator>Yorga77</dc:creator>
+		<category><![CDATA[Idiocracia]]></category>
+		<category><![CDATA[trump]]></category>
+		<category><![CDATA[exige]]></category>
+		<category><![CDATA[empresas]]></category>
+		<category><![CDATA[canadienses]]></category>
+		<category><![CDATA[negocios]]></category>
+		<category><![CDATA[ee.uu]]></category>
+		<guid>https://www.meneame.net/story/trump-exige-todas-empresas-canadienses-hacen-negocios-ee-uu</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211829.webp?1788164886' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Donald Trump intentó intensificar su guerra comercial con Canadá el domingo por la tarde y emitió una demanda en Truth Social para que las empresas canadienses que quieran hacer negocios con Estados Unidos reubiquen sus sedes dentro de sus fronteras.</p><p><strong>etiquetas</strong>: trump, exige, empresas, canadienses, negocios, ee.uu</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211829" >noticia original</a> (www.independent.co.uk)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211829.webp?1788164886" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211829</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211836</meneame:link_id>
+		<meneame:sub>mnm</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>mr.wolf</meneame:user>
+		<meneame:clicks>1204</meneame:clicks>
+		<meneame:votes>271</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>1920</meneame:karma>
+		<meneame:comments>46</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses?utm_source=meneame_rss</meneame:url>
+		<title>La mujer de 70 años hallada muerta en un trastero de Triana llevaba meses alquilándolo para dormir en él</title>
+		<link>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses</link>
+		<comments>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses</comments>
+		<pubDate>Mon, 31 Aug 2026 14:05:02 +0000</pubDate>
+		<dc:creator>mr.wolf</dc:creator>
+		<category><![CDATA[mnm]]></category>
+		<category><![CDATA[vivienda]]></category>
+		<category><![CDATA[trastero]]></category>
+		<category><![CDATA[muerte]]></category>
+		<category><![CDATA[especulación]]></category>
+		<category><![CDATA[sevilla]]></category>
+		<category><![CDATA[alquiler]]></category>
+		<guid>https://www.meneame.net/story/mujer-70-anos-hallada-muerta-trastero-triana-llevaba-meses</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211836.webp?1788166026' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La investigación sobre la mujer encontrada muerta en un trastero del barrio de Triana, en Sevilla, ha permitido conocer nuevos detalles sobre las circunstancias en las que vivía. La fallecida tenía 70 años y habría alquilado aquel pequeño espacio de la calle Tejares unos cuatro meses antes del hallazgo de su cadáver.</p><p><strong>etiquetas</strong>: vivienda, trastero, muerte, especulación, sevilla, alquiler</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211836" >noticia original</a> (www.lavozdelsur.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211836.webp?1788166026" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211836</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211885</meneame:link_id>
+		<meneame:sub>ciencia</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Bapho</meneame:user>
+		<meneame:clicks>985</meneame:clicks>
+		<meneame:votes>224</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>1706</meneame:karma>
+		<meneame:comments>17</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad?utm_source=meneame_rss</meneame:url>
+		<title>La CHJ desmonta el mito de la limpieza de la vegetación en barrancos: reduce la velocidad y ayuda a laminar las avenidas</title>
+		<link>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad</link>
+		<comments>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad</comments>
+		<pubDate>Mon, 31 Aug 2026 13:55:02 +0000</pubDate>
+		<dc:creator>Bapho</dc:creator>
+		<category><![CDATA[ciencia]]></category>
+		<category><![CDATA[chj]]></category>
+		<category><![CDATA[barrancos]]></category>
+		<category><![CDATA[limpieza]]></category>
+		<guid>https://www.meneame.net/story/chj-desmonta-mito-limpieza-vegetacion-barrancos-reduce-velocidad</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211885.webp?1788174426' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La Confederación Hidrográfica del Júcar responde por carta a la Federación Valenciana de Municipios y Provincias donde defiende que mantiene equipos durante todo el año para conservar los cauces, que en tramos urbanos son competencia de los ayuntamientos</p><p><strong>etiquetas</strong>: chj, barrancos, limpieza</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211885" >noticia original</a> (www.eldiario.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211885.webp?1788174426" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211885</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211903</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Bifaz</meneame:user>
+		<meneame:clicks>991</meneame:clicks>
+		<meneame:votes>372</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2679</meneame:karma>
+		<meneame:comments>13</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos?utm_source=meneame_rss</meneame:url>
+		<title>Exsoldados israelíes vestidos como manifestantes propalestinos a las afueras de la Universidad de Columbia [ENG]</title>
+		<link>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos</link>
+		<comments>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos</comments>
+		<pubDate>Mon, 31 Aug 2026 13:45:19 +0000</pubDate>
+		<dc:creator>Bifaz</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[cohen]]></category>
+		<category><![CDATA[israel]]></category>
+		<category><![CDATA[mossad]]></category>
+		<category><![CDATA[agent provocateur]]></category>
+		<category><![CDATA[columbia]]></category>
+		<category><![CDATA[frontline advocates]]></category>
+		<guid>https://www.meneame.net/story/exsoldados-israelies-vestidos-como-manifestantes-propalestinos</guid>
+		<description><![CDATA[<p>Miembros de Frontline Advocates, una organización sin ánimo de lucro proisraelí que colabora en proyectos específicos con el Ministerio de Asuntos Exteriores israelí, llevaban kufiyas y ondeaban banderas palestinas. Frontline Advocates, una organización sin fines de lucro proisraelí que colabora en proyectos específicos con el Ministerio de Asuntos Exteriores de Israel, instaló el martes una mesa frente a las puertas de Broadway y la calle 116 con un cartel que decía: «Somos las FDI. Hemos estado en Gaza. Pregúntennos lo que quieran».</p><p><strong>etiquetas</strong>: cohen, israel, mossad, agent provocateur, columbia, frontline advocates</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211903" >noticia original</a> (www.columbiaspectator.com)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211903</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211869</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>mis_cojones_en_bata</meneame:user>
+		<meneame:clicks>1226</meneame:clicks>
+		<meneame:votes>304</meneame:votes>
+		<meneame:negatives>3</meneame:negatives>
+		<meneame:karma>2225</meneame:karma>
+		<meneame:comments>19</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen?utm_source=meneame_rss</meneame:url>
+		<title>La complicidad entre Alquiler Seguro y grandes inmobiliarias: siguen las estafas y amenazas a las inquilinas</title>
+		<link>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen</link>
+		<comments>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen</comments>
+		<pubDate>Mon, 31 Aug 2026 13:30:02 +0000</pubDate>
+		<dc:creator>mis_cojones_en_bata</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[alquiler]]></category>
+		<category><![CDATA[seguro]]></category>
+		<category><![CDATA[inmobiliarias]]></category>
+		<category><![CDATA[estafa]]></category>
+		<category><![CDATA[amenazas]]></category>
+		<category><![CDATA[hijos de puta]]></category>
+		<guid>https://www.meneame.net/story/complicidad-entre-alquiler-seguro-grandes-inmobiliarias-siguen</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211869.webp?1788173527' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Lidia y Mónica no se conocen entre sí, nunca han tenido la oportunidad de coincidir en un mismo espacio pero a ambas les vincula una historia muy similar. A los pocos años de migrar a Madrid, la primera desde Rusia y la segunda desde Perú, se vieron envueltas en una gran estafa inmobiliaria tras contratar los servicios de Alquiler Seguro. Aunque nunca habían fallado al pago de la renta del piso, las dos inquilinas acabaron adquiriendo una deuda que crece día a día a causa de prácticas fraudulentas más que documentadas de esta agencia.</p><p><strong>etiquetas</strong>: alquiler, seguro, inmobiliarias, estafa, amenazas, hijos de puta</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211869" >noticia original</a> (www.elsaltodiario.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211869.webp?1788173527" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211869</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211868</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Bifaz</meneame:user>
+		<meneame:clicks>699</meneame:clicks>
+		<meneame:votes>343</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2363</meneame:karma>
+		<meneame:comments>10</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria?utm_source=meneame_rss</meneame:url>
+		<title>Estado de vigilancia S.A.: Cómo un grupo de empresas israelíes de piratería informática dirige la política mundial</title>
+		<link>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria</link>
+		<comments>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria</comments>
+		<pubDate>Mon, 31 Aug 2026 13:05:02 +0000</pubDate>
+		<dc:creator>Bifaz</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[israel]]></category>
+		<category><![CDATA[empresa]]></category>
+		<category><![CDATA[espia]]></category>
+		<category><![CDATA[ciberseguridad]]></category>
+		<category><![CDATA[nso]]></category>
+		<category><![CDATA[team jorge]]></category>
+		<category><![CDATA[8200]]></category>
+		<category><![CDATA[mossad]]></category>
+		<guid>https://www.meneame.net/story/estado-vigilancia-s-como-grupo-empresas-israelies-pirateria</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211868.webp?1788171306' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Esta es la historia de décadas de amistades con hombres de negocios israelíes y antiguos funcionarios de seguridad, de contratos generosos con empresas de ciberseguridad de Israel y de alianzas empresariales que permitían la violación de los derechos humanos. Por último, esta historia demuestra el inmenso poder de la ciberseguridad israelí y de la industria de piratería informática y revela las redes invisibles que alimentan la internacional reaccionaria.</p><p><strong>etiquetas</strong>: israel, empresa, espia, ciberseguridad, nso, team jorge, 8200, mossad</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211868" >noticia original</a> (reactionary.international)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211868.webp?1788171306" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211868</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211886</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>kaos_subversivo</meneame:user>
+		<meneame:clicks>2474</meneame:clicks>
+		<meneame:votes>210</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1706</meneame:karma>
+		<meneame:comments>71</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz?utm_source=meneame_rss</meneame:url>
+		<title>Superpetrolero impacta contra 2 minas navales en ruta ilegal en Ormuz</title>
+		<link>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz</link>
+		<comments>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz</comments>
+		<pubDate>Mon, 31 Aug 2026 12:45:20 +0000</pubDate>
+		<dc:creator>kaos_subversivo</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[irán]]></category>
+		<category><![CDATA[ormuz]]></category>
+		<category><![CDATA[superpetrolero]]></category>
+		<category><![CDATA[minas]]></category>
+		<guid>https://www.meneame.net/story/superpetrolero-impacta-contra-2-minas-navales-ruta-ilegal-ormuz</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211886.webp?1788174546' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El CGRI de Irán ha anunciado que un superpetrolero que infringía las normas de seguridad del estrecho de Ormuz sufrió graves incendios después de impactar con dos minas marinas.</p><p><strong>etiquetas</strong>: irán, ormuz, superpetrolero, minas</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211886" >noticia original</a> (www.tercerainformacion.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211886.webp?1788174546" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211886</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211807</meneame:link_id>
+		<meneame:sub>ocio</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Regreso</meneame:user>
+		<meneame:clicks>4034</meneame:clicks>
+		<meneame:votes>120</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>1052</meneame:karma>
+		<meneame:comments>65</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw?utm_source=meneame_rss</meneame:url>
+		<title>Infinite Slop, un canal de TV interactivo e infinito generado por IA [NSFW]</title>
+		<link>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw</link>
+		<comments>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw</comments>
+		<pubDate>Mon, 31 Aug 2026 12:05:02 +0000</pubDate>
+		<dc:creator>Regreso</dc:creator>
+		<category><![CDATA[ocio]]></category>
+		<category><![CDATA[video]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[ai]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[chat]]></category>
+		<guid>https://www.meneame.net/story/infinite-slop-canal-tv-interactivo-infinito-generado-ia-nsfw</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211807.webp?1788162066' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El video se genera más rápido que lo que se tarda en verlo, lo que permite un canal de televisión infinito. El sistema trata de crear un hilo con cierta coherencia apoyándose en los prompts que los usuarios escriben en el chat. Link directo: <a href="https://levels.io/infinite-slop" title="levels.io/infinite-slop" rel="nofollow">levels.io/infinite-slop</a></p><p><strong>etiquetas</strong>: video, streaming, ai, live, chat</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211807" >noticia original</a> (levels.io)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211807.webp?1788162066" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211807</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211781</meneame:link_id>
+		<meneame:sub>Inteligencia</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Dragstat</meneame:user>
+		<meneame:clicks>989</meneame:clicks>
+		<meneame:votes>214</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>1551</meneame:karma>
+		<meneame:comments>52</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta?utm_source=meneame_rss</meneame:url>
+		<title>Un empleado de Microsoft gastó $28.000 en IA en 28 días. Ahora la empresa está vigilando a todos [EN]</title>
+		<link>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta</link>
+		<comments>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta</comments>
+		<pubDate>Mon, 31 Aug 2026 11:25:03 +0000</pubDate>
+		<dc:creator>Dragstat</dc:creator>
+		<category><![CDATA[Inteligencia]]></category>
+		<category><![CDATA[microsoft]]></category>
+		<category><![CDATA[ia]]></category>
+		<category><![CDATA[gasto]]></category>
+		<category><![CDATA[empleado]]></category>
+		<guid>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211781.webp?1788156546' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Microsoft se pasó el tiempo diciéndoles a sus ingenieros que utilizaran la IA de forma agresiva, luego llegaron las facturas. Los empleados manipularon los paneles de Copilot mediante “tokenmaxxing”, inflando los costos sin generar resultados, quemando deliberadamente tokens de IA en consultas de bajo valor o completamente inútiles simplemente para ascender en las tablas de clasificación de uso interno.</p><p><strong>etiquetas</strong>: microsoft, ia, gasto, empleado</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211781" >noticia original</a> (www.gadgetreview.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211781.webp?1788156546" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211781</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211706</meneame:link_id>
+		<meneame:sub>ocio</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Meneador_Compulsivo</meneame:user>
+		<meneame:clicks>1163</meneame:clicks>
+		<meneame:votes>234</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>1715</meneame:karma>
+		<meneame:comments>58</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/espana-bate-record-victorias-consecutivas-criquet-internacional?utm_source=meneame_rss</meneame:url>
+		<title>España bate el récord de victorias consecutivas en el críquet internacional ostentado por Australia desde hace 23 años [ENG]</title>
+		<link>https://www.meneame.net/story/espana-bate-record-victorias-consecutivas-criquet-internacional</link>
+		<comments>https://www.meneame.net/story/espana-bate-record-victorias-consecutivas-criquet-internacional</comments>
+		<pubDate>Mon, 31 Aug 2026 10:25:02 +0000</pubDate>
+		<dc:creator>Meneador_Compulsivo</dc:creator>
+		<category><![CDATA[ocio]]></category>
+		<category><![CDATA[españa]]></category>
+		<category><![CDATA[críquet]]></category>
+		<category><![CDATA[cricket]]></category>
+		<guid>https://www.meneame.net/story/espana-bate-record-victorias-consecutivas-criquet-internacional</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/43/media_thumb-link-4211706.webp?1788117846' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Ni Australia, ni Inglaterra, ni India, ni Pakistán. España se ha convertido en la selección con la racha de victorias consecutivas más larga (24) en la historia del críquet internacional, superando el récord de 23 que ostentaba hasta ahora la selección australiana dirigida por Ricky Ponting y Steve Waugh en 2003.</p><p><strong>etiquetas</strong>: españa, críquet, cricket</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211706" >noticia original</a> (timesofindia.indiatimes.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/43/media_thumb-link-4211706.webp?1788117846" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211706</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211835</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>pepel</meneame:user>
+		<meneame:clicks>1231</meneame:clicks>
+		<meneame:votes>429</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>3022</meneame:karma>
+		<meneame:comments>91</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/cientos-donostiarras-enarbolan-carros-reivindicar-derecho-dar?utm_source=meneame_rss</meneame:url>
+		<title>Cientos de donostiarras enarbolan sus carros para reivindicar el derecho a dar comida a las personas sin hogar</title>
+		<link>https://www.meneame.net/story/cientos-donostiarras-enarbolan-carros-reivindicar-derecho-dar</link>
+		<comments>https://www.meneame.net/story/cientos-donostiarras-enarbolan-carros-reivindicar-derecho-dar</comments>
+		<pubDate>Mon, 31 Aug 2026 09:40:19 +0000</pubDate>
+		<dc:creator>pepel</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[cientos]]></category>
+		<category><![CDATA[donostiarras]]></category>
+		<category><![CDATA[carros]]></category>
+		<category><![CDATA[comida]]></category>
+		<category><![CDATA[personas sin hogar]]></category>
+		<guid>https://www.meneame.net/story/cientos-donostiarras-enarbolan-carros-reivindicar-derecho-dar</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211835.webp?1788165846' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La protesta contra las identificaciones tras la prohibición de las cenas de KAS recorre la Parte Vieja y culmina en la plaza de la Constitución. Relacionada: <a href="https://www.meneame.net/story/bocadillos-ilegales" title="www.meneame.net/story/bocadillos-ilegales" rel="nofollow">www.meneame.net/story/bocadillos-ilegales</a></p><p><strong>etiquetas</strong>: cientos, donostiarras, carros, comida, personas sin hogar</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211835" >noticia original</a> (www.donostitik.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211835.webp?1788165846" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211835</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211833</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>tomeu</meneame:user>
+		<meneame:clicks>1395</meneame:clicks>
+		<meneame:votes>705</meneame:votes>
+		<meneame:negatives>4</meneame:negatives>
+		<meneame:karma>4772</meneame:karma>
+		<meneame:comments>236</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/sanchez-sobre-ayuso-atico-parece-ha-querido-comprar-aticazo?utm_source=meneame_rss</meneame:url>
+		<title>Sánchez, sobre Ayuso: &#34;Lo del ático es lo que parece, se ha querido comprar un aticazo con la pasta de los madrileños&#34;</title>
+		<link>https://www.meneame.net/story/sanchez-sobre-ayuso-atico-parece-ha-querido-comprar-aticazo</link>
+		<comments>https://www.meneame.net/story/sanchez-sobre-ayuso-atico-parece-ha-querido-comprar-aticazo</comments>
+		<pubDate>Mon, 31 Aug 2026 08:50:19 +0000</pubDate>
+		<dc:creator>tomeu</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[atico]]></category>
+		<category><![CDATA[ayuso]]></category>
+		<category><![CDATA[sanchez]]></category>
+		<guid>https://www.meneame.net/story/sanchez-sobre-ayuso-atico-parece-ha-querido-comprar-aticazo</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211833.webp?1788165246' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Sánchez ha insistido en que este caso &quot;es lo que parece&quot;, un &quot;aticazo con el dinero de los madrileños&quot; mientras la presidenta no aplica la Ley de Vivienda. &quot;Ella necesita un piso grande, de 400 metros cuadrados y 200 de terraza&quot;, ha continuado el líder socialista.</p><p><strong>etiquetas</strong>: atico, ayuso, sanchez</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211833" >noticia original</a> (www.publico.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211833.webp?1788165246" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211833</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211725</meneame:link_id>
+		<meneame:sub>politica</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Bifaz</meneame:user>
+		<meneame:clicks>1093</meneame:clicks>
+		<meneame:votes>321</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2238</meneame:karma>
+		<meneame:comments>20</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/probable-esta-inquietante-tecnologia-espionaje-israeli-este-tuya?utm_source=meneame_rss</meneame:url>
+		<title>Es probable que esta inquietante tecnología de espionaje israelí esté operando en una ciudad cercana a la tuya. [ENG]</title>
+		<link>https://www.meneame.net/story/probable-esta-inquietante-tecnologia-espionaje-israeli-este-tuya</link>
+		<comments>https://www.meneame.net/story/probable-esta-inquietante-tecnologia-espionaje-israeli-este-tuya</comments>
+		<pubDate>Mon, 31 Aug 2026 08:25:03 +0000</pubDate>
+		<dc:creator>Bifaz</dc:creator>
+		<category><![CDATA[politica]]></category>
+		<category><![CDATA[cognyte]]></category>
+		<category><![CDATA[verint]]></category>
+		<category><![CDATA[nso group]]></category>
+		<category><![CDATA[israel]]></category>
+		<category><![CDATA[8200]]></category>
+		<category><![CDATA[vigilancia]]></category>
+		<category><![CDATA[espionaje]]></category>
+		<category><![CDATA[wifi]]></category>
+		<guid>https://www.meneame.net/story/probable-esta-inquietante-tecnologia-espionaje-israeli-este-tuya</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211725.webp?1788121986' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Israel es un centro neurálgico de la tecnología de espionaje, con más empresas de vigilancia per cápita que en cualquier otro lugar del mundo. Este fenómeno se debe en gran medida a la unidad militar israelí 8200, una unidad de inteligencia de señales que sirve de cantera para la industria privada, y se estima que el 80 % de los fundadores de empresas de seguridad nacional de EE. UU. han pertenecido a dicha unidad. Cognyte y su predecesora Verint no son casos aislados en cuanto a su participación en abusos contra los derechos humanos.</p><p><strong>etiquetas</strong>: cognyte, verint, nso group, israel, 8200, vigilancia, espionaje, wifi</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211725" >noticia original</a> (israelpalestinenews.org)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211725.webp?1788121986" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211725</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211766</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Albarkas</meneame:user>
+		<meneame:clicks>1867</meneame:clicks>
+		<meneame:votes>274</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>2122</meneame:karma>
+		<meneame:comments>58</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/detenida-falsear-acta-vecinal-vender-200-000-euros-piso-sin?utm_source=meneame_rss</meneame:url>
+		<title>Detenida por falsear un acta vecinal para vender por 200.000 euros un piso sin ascensor</title>
+		<link>https://www.meneame.net/story/detenida-falsear-acta-vecinal-vender-200-000-euros-piso-sin</link>
+		<comments>https://www.meneame.net/story/detenida-falsear-acta-vecinal-vender-200-000-euros-piso-sin</comments>
+		<pubDate>Mon, 31 Aug 2026 08:00:36 +0000</pubDate>
+		<dc:creator>Albarkas</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[estafa]]></category>
+		<category><![CDATA[compra-venta piso]]></category>
+		<category><![CDATA[ascensor]]></category>
+		<category><![CDATA[acta comunidad vecinos]]></category>
+		<guid>https://www.meneame.net/story/detenida-falsear-acta-vecinal-vender-200-000-euros-piso-sin</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211766.webp?1788150366' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>La vendedora, que aseguró ejercer las funciones de presidenta y administradora de la comunidad de propietarios, le aseguró a la compradora que la junta de vecinos ya había aprobado por unanimidad la instalación</p><p><strong>etiquetas</strong>: estafa, compra-venta piso, ascensor, acta comunidad vecinos</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211766" >noticia original</a> (www.elperiodico.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211766.webp?1788150366" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211766</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211767</meneame:link_id>
+		<meneame:sub>cultura</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>ccguy</meneame:user>
+		<meneame:clicks>1356</meneame:clicks>
+		<meneame:votes>104</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>975</meneame:karma>
+		<meneame:comments>18</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/citroen-ds-21-concorde-coupe-1965-rara-elegancia-francesa-eng?utm_source=meneame_rss</meneame:url>
+		<title>Citroën DS 21 Concorde Coupé de 1965: la rara elegancia francesa de Chapron [ENG]</title>
+		<link>https://www.meneame.net/story/citroen-ds-21-concorde-coupe-1965-rara-elegancia-francesa-eng</link>
+		<comments>https://www.meneame.net/story/citroen-ds-21-concorde-coupe-1965-rara-elegancia-francesa-eng</comments>
+		<pubDate>Mon, 31 Aug 2026 09:55:04 +0000</pubDate>
+		<dc:creator>ccguy</dc:creator>
+		<category><![CDATA[cultura]]></category>
+		<category><![CDATA[citroën ds]]></category>
+		<category><![CDATA[chapron]]></category>
+		<category><![CDATA[coches clásicos]]></category>
+		<category><![CDATA[carrocería]]></category>
+		<category><![CDATA[1965]]></category>
+		<guid>https://www.meneame.net/story/citroen-ds-21-concorde-coupe-1965-rara-elegancia-francesa-eng</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211767.webp?1788154086' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El Citroën DS 21 Concorde Coupé de 1965 es una interpretación rara y sofisticada del icónico DS de Citroën, creada por el renombrado carrocero francés Henri Chapron. Basado en el avanzado chasis del DS 21, con su suspensión hidroneumática y su suave motor de 2,2 litros, el Concorde presentaba una elegante carrocería coupé de dos puertas con líneas limpias y fluidas. Solo se produjeron unos 35 ejemplares, lo que lo convierte en una de las variantes del DS más exclusivas de la época.</p><p><strong>etiquetas</strong>: citroën ds, chapron, coches clásicos, carrocería, 1965</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211767" >noticia original</a> (www.vintag.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211767.webp?1788154086" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211767</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211795</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Gaiden</meneame:user>
+		<meneame:clicks>3431</meneame:clicks>
+		<meneame:votes>584</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>3980</meneame:karma>
+		<meneame:comments>150</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/cadena-ser-despide-javier-ruiz-tras-toda-vida-radio-periodista?utm_source=meneame_rss</meneame:url>
+		<title>La Cadena SER despide a Javier Ruiz tras toda una vida en la radio: el periodista no podrá despedirse ni siquiera de los oyentes</title>
+		<link>https://www.meneame.net/story/cadena-ser-despide-javier-ruiz-tras-toda-vida-radio-periodista</link>
+		<comments>https://www.meneame.net/story/cadena-ser-despide-javier-ruiz-tras-toda-vida-radio-periodista</comments>
+		<pubDate>Mon, 31 Aug 2026 07:40:19 +0000</pubDate>
+		<dc:creator>Gaiden</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[javier ruiz]]></category>
+		<category><![CDATA[ser]]></category>
+		<category><![CDATA[prisa]]></category>
+		<category><![CDATA[angels barcelo]]></category>
+		<category><![CDATA[periodismo]]></category>
+		<guid>https://www.meneame.net/story/cadena-ser-despide-javier-ruiz-tras-toda-vida-radio-periodista</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211795.webp?1788160386' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Nuevo movimiento en “la página de la derecha” de la cadena que, entre despidos, ahora habla de huir de “trincheras”</p><p><strong>etiquetas</strong>: javier ruiz, ser, prisa, angels barcelo, periodismo</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211795" >noticia original</a> (www.elplural.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211795.webp?1788160386" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211795</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211765</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Feindesland</meneame:user>
+		<meneame:clicks>863</meneame:clicks>
+		<meneame:votes>300</meneame:votes>
+		<meneame:negatives>0</meneame:negatives>
+		<meneame:karma>2161</meneame:karma>
+		<meneame:comments>58</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/iran-ataca-bases-estadounidenses-jordania-como-represalia-isla?utm_source=meneame_rss</meneame:url>
+		<title>Irán ataca bases estadounidenses en Jordania como represalia al bombardeo de la isla Larak</title>
+		<link>https://www.meneame.net/story/iran-ataca-bases-estadounidenses-jordania-como-represalia-isla</link>
+		<comments>https://www.meneame.net/story/iran-ataca-bases-estadounidenses-jordania-como-represalia-isla</comments>
+		<pubDate>Mon, 31 Aug 2026 07:10:19 +0000</pubDate>
+		<dc:creator>Feindesland</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[irán]]></category>
+		<category><![CDATA[ataque]]></category>
+		<category><![CDATA[bases usa]]></category>
+		<category><![CDATA[jordania]]></category>
+		<category><![CDATA[larak]]></category>
+		<guid>https://www.meneame.net/story/iran-ataca-bases-estadounidenses-jordania-como-represalia-isla</guid>
+		<description><![CDATA[<p>La Guardia Revolucionaria de Irán ha asegurado este lunes haber atacado la madrugada de este lunes dos bases estadounidenses en Jordania como represalia al bombardeo de Washington sobre la isla iraní de Larak, realizado horas antes.</p><p><strong>etiquetas</strong>: irán, ataque, bases usa, jordania, larak</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211765" >noticia original</a> (www.elmundo.es)</p>]]></description>
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211765</wfw:commentRss>	</item>
+
+	<item>
+		<meneame:link_id>4211775</meneame:link_id>
+		<meneame:sub>actualidad</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>ccguy</meneame:user>
+		<meneame:clicks>2701</meneame:clicks>
+		<meneame:votes>225</meneame:votes>
+		<meneame:negatives>2</meneame:negatives>
+		<meneame:karma>1810</meneame:karma>
+		<meneame:comments>35</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/enemigo-canadiense-roger-senserrich?utm_source=meneame_rss</meneame:url>
+		<title>El enemigo canadiense (Roger Senserrich)</title>
+		<link>https://www.meneame.net/story/enemigo-canadiense-roger-senserrich</link>
+		<comments>https://www.meneame.net/story/enemigo-canadiense-roger-senserrich</comments>
+		<pubDate>Mon, 31 Aug 2026 06:55:19 +0000</pubDate>
+		<dc:creator>ccguy</dc:creator>
+		<category><![CDATA[actualidad]]></category>
+		<category><![CDATA[trump]]></category>
+		<category><![CDATA[canadá]]></category>
+		<category><![CDATA[lago ontario]]></category>
+		<category><![CDATA[aranceles]]></category>
+		<category><![CDATA[carney]]></category>
+		<guid>https://www.meneame.net/story/enemigo-canadiense-roger-senserrich</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211775.webp?1788154986' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Este sábado apareció a orillas del Lago Ontario un cartelón enorme. En él, escrito en francés e inglés, aparecen las palabras “Lago Ontario, hoy y siempre.” No me meteré en política canadiense ni en la peculiar personalidad de Doug Ford, el primer ministro de la provincia de Ontario que presentó todo orgulloso este cartel. El jueves pasado, Trump hizo esto, firmando una orden ejecutiva cambiando el nombre del lago Ontario a “Lago América”.</p><p><strong>etiquetas</strong>: trump, canadá, lago ontario, aranceles, carney</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211775" >noticia original</a> (www.4freedoms.es)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211775.webp?1788154986" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211775</wfw:commentRss>	</item>
+
+</channel>
+</rss>
