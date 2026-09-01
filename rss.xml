@@ -14,19 +14,50 @@
 	<link>http://www.meneame.net</link>
 	<image><title>Menéame: publicadas</title><link>http://www.meneame.net</link><url>http://cdn.mnmstatic.net/img/mnm/eli-rss.png</url></image>
 	<description>Sitio colaborativo de publicación y comunicación entre blogs</description>
-	<pubDate>Tue, 01 Sep 2026 12:30:02 +0000</pubDate>
+	<pubDate>Tue, 01 Sep 2026 12:35:04 +0000</pubDate>
 	<generator>http://blog.meneame.net/</generator>
 	<language>es</language>
 	<atom:link rel="hub" href="http://pubsubhubbub.appspot.com/"/>
+	<item>
+		<meneame:link_id>4211826</meneame:link_id>
+		<meneame:sub>ciencia</meneame:sub>
+		<meneame:status>published</meneame:status>
+		<meneame:user>Harkon</meneame:user>
+		<meneame:clicks>237</meneame:clicks>
+		<meneame:votes>38</meneame:votes>
+		<meneame:negatives>1</meneame:negatives>
+		<meneame:karma>639</meneame:karma>
+		<meneame:comments>32</meneame:comments>
+		<meneame:url>https://www.meneame.net/story/pedisteis-viaje-completo-aqui-esta-lanzamiento-aterrizaje-etapa?utm_source=meneame_rss</meneame:url>
+		<title>Pedísteis el viaje completo. Aquí está (Lanzamiento y aterrizaje de la primera etapa del cohete orbital chino Zhuque-3)</title>
+		<link>https://www.meneame.net/story/pedisteis-viaje-completo-aqui-esta-lanzamiento-aterrizaje-etapa</link>
+		<comments>https://www.meneame.net/story/pedisteis-viaje-completo-aqui-esta-lanzamiento-aterrizaje-etapa</comments>
+		<pubDate>Tue, 01 Sep 2026 12:35:04 +0000</pubDate>
+		<dc:creator>Harkon</dc:creator>
+		<category><![CDATA[ciencia]]></category>
+		<category><![CDATA[lanzamiento]]></category>
+		<category><![CDATA[aterrizaje]]></category>
+		<category><![CDATA[primera]]></category>
+		<category><![CDATA[etapa]]></category>
+		<category><![CDATA[cohete]]></category>
+		<category><![CDATA[orbital]]></category>
+		<category><![CDATA[chino]]></category>
+		<category><![CDATA[zhuque-3]]></category>
+		<category><![CDATA[dji]]></category>
+		<guid>https://www.meneame.net/story/pedisteis-viaje-completo-aqui-esta-lanzamiento-aterrizaje-etapa</guid>
+		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211826.webp?1788164886' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>DJI, en colaboración con LandSpace, ha llevado a cabo esta prueba de grabación de imágenes a bordo de un cohete. Una DJI Osmo Action 6 se instaló al cohete: desde el encendido, pasando por su ascenso a gran altura en la atmósfera, hasta su descenso y aterrizaje vertical de precisión. Desde el despegue hasta el aterrizaje. Una vista en primera persona ininterrumpida.</p><p><strong>etiquetas</strong>: lanzamiento, aterrizaje, primera, etapa, cohete, orbital, chino, zhuque-3, dji</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211826" >noticia original</a> (www.youtube.com)</p>]]></description>
+		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211826.webp?1788164886" width='155' height='155' />
+		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211826</wfw:commentRss>	</item>
+
 	<item>
 		<meneame:link_id>4212072</meneame:link_id>
 		<meneame:sub>Arquitectura</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Free_palestine</meneame:user>
-		<meneame:clicks>622</meneame:clicks>
-		<meneame:votes>34</meneame:votes>
+		<meneame:clicks>806</meneame:clicks>
+		<meneame:votes>40</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>445</meneame:karma>
+		<meneame:karma>488</meneame:karma>
 		<meneame:comments>1</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/torre-atrapa-viento-como-iran-enfria-casas?utm_source=meneame_rss</meneame:url>
 		<title>La torre que atrapa el viento: cómo Irán enfría sus casas</title>
@@ -50,11 +81,11 @@
 		<meneame:sub>FACEPALM</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Oghaio</meneame:user>
-		<meneame:clicks>400</meneame:clicks>
-		<meneame:votes>80</meneame:votes>
+		<meneame:clicks>437</meneame:clicks>
+		<meneame:votes>93</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>804</meneame:karma>
-		<meneame:comments>27</meneame:comments>
+		<meneame:karma>895</meneame:karma>
+		<meneame:comments>29</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/ciudad-ceuta-desmiente-marcos-quinto-no-pago-cena-flotilla?utm_source=meneame_rss</meneame:url>
 		<title>La Ciudad de Ceuta desmiente a Marcos de Quinto: no pagó la cena de la flotilla</title>
 		<link>https://www.meneame.net/story/ciudad-ceuta-desmiente-marcos-quinto-no-pago-cena-flotilla</link>
@@ -78,11 +109,11 @@
 		<meneame:sub>ocio</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>ccguy</meneame:user>
-		<meneame:clicks>244</meneame:clicks>
-		<meneame:votes>108</meneame:votes>
+		<meneame:clicks>266</meneame:clicks>
+		<meneame:votes>116</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>863</meneame:karma>
-		<meneame:comments>14</meneame:comments>
+		<meneame:karma>932</meneame:karma>
+		<meneame:comments>15</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/vuelta-trabajo-genera-como-cada-ano-pico-temporal-marxismo?utm_source=meneame_rss</meneame:url>
 		<title>La vuelta al trabajo genera, como cada año, un pico temporal de marxismo radical</title>
 		<link>https://www.meneame.net/story/vuelta-trabajo-genera-como-cada-ano-pico-temporal-marxismo</link>
@@ -105,11 +136,11 @@
 		<meneame:sub>Guerras</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Tkachenko</meneame:user>
-		<meneame:clicks>173</meneame:clicks>
-		<meneame:votes>103</meneame:votes>
+		<meneame:clicks>178</meneame:clicks>
+		<meneame:votes>108</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>840</meneame:karma>
-		<meneame:comments>47</meneame:comments>
+		<meneame:karma>868</meneame:karma>
+		<meneame:comments>48</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/ue-dice-seguira-trabajando-ee-uu-g7-mantener-presion-sobre-iran?utm_source=meneame_rss</meneame:url>
 		<title>La UE dice que seguirá trabajando con EE.UU. y el G7 para mantener la presión sobre Irán (EN)</title>
 		<link>https://www.meneame.net/story/ue-dice-seguira-trabajando-ee-uu-g7-mantener-presion-sobre-iran</link>
@@ -134,11 +165,11 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>JanSmite</meneame:user>
-		<meneame:clicks>589</meneame:clicks>
-		<meneame:votes>116</meneame:votes>
+		<meneame:clicks>602</meneame:clicks>
+		<meneame:votes>120</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>991</meneame:karma>
-		<meneame:comments>21</meneame:comments>
+		<meneame:karma>1030</meneame:karma>
+		<meneame:comments>23</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/nuestra-guerra-comercial-contra-nosotros-mismos-tratar-canada?utm_source=meneame_rss</meneame:url>
 		<title>Nuestra guerra comercial contra nosotros mismos: tratar a Canadá como a un enemigo nos debilita en todos los sentidos [Ing]</title>
 		<link>https://www.meneame.net/story/nuestra-guerra-comercial-contra-nosotros-mismos-tratar-canada</link>
@@ -159,10 +190,10 @@
 		<meneame:sub>Trump</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>arllutoquintumi</meneame:user>
-		<meneame:clicks>1234</meneame:clicks>
-		<meneame:votes>170</meneame:votes>
+		<meneame:clicks>1249</meneame:clicks>
+		<meneame:votes>172</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1211</meneame:karma>
+		<meneame:karma>1221</meneame:karma>
 		<meneame:comments>19</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/ataque-trump-isla-irani-larak-evidencia-intento-esconder?utm_source=meneame_rss</meneame:url>
 		<title>El ataque de Trump a la isla iraní de Larak evidencia el intento de esconder su ineptitud</title>
@@ -184,7 +215,7 @@
 		<meneame:sub>Motor</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1502</meneame:clicks>
+		<meneame:clicks>1516</meneame:clicks>
 		<meneame:votes>116</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1011</meneame:karma>
@@ -210,7 +241,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>fredpalas</meneame:user>
-		<meneame:clicks>529</meneame:clicks>
+		<meneame:clicks>533</meneame:clicks>
 		<meneame:votes>156</meneame:votes>
 		<meneame:negatives>8</meneame:negatives>
 		<meneame:karma>1183</meneame:karma>
@@ -237,10 +268,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Ratoncolorao</meneame:user>
-		<meneame:clicks>1193</meneame:clicks>
-		<meneame:votes>210</meneame:votes>
+		<meneame:clicks>1205</meneame:clicks>
+		<meneame:votes>211</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
-		<meneame:karma>1578</meneame:karma>
+		<meneame:karma>1597</meneame:karma>
 		<meneame:comments>45</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/bocadillos-ilegales?utm_source=meneame_rss</meneame:url>
 		<title>Bocadillos ilegales</title>
@@ -263,7 +294,7 @@
 		<meneame:sub>ciencia</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>ccguy</meneame:user>
-		<meneame:clicks>1435</meneame:clicks>
+		<meneame:clicks>1449</meneame:clicks>
 		<meneame:votes>57</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>683</meneame:karma>
@@ -290,7 +321,7 @@
 		<meneame:sub>MAmbiente</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Laro__</meneame:user>
-		<meneame:clicks>454</meneame:clicks>
+		<meneame:clicks>456</meneame:clicks>
 		<meneame:votes>166</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1223</meneame:karma>
@@ -317,7 +348,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Janssen</meneame:user>
-		<meneame:clicks>909</meneame:clicks>
+		<meneame:clicks>914</meneame:clicks>
 		<meneame:votes>141</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1228</meneame:karma>
@@ -342,7 +373,7 @@
 		<meneame:sub>politica</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Ripio</meneame:user>
-		<meneame:clicks>2055</meneame:clicks>
+		<meneame:clicks>2071</meneame:clicks>
 		<meneame:votes>142</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
 		<meneame:karma>1240</meneame:karma>
@@ -366,7 +397,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>News333</meneame:user>
-		<meneame:clicks>948</meneame:clicks>
+		<meneame:clicks>952</meneame:clicks>
 		<meneame:votes>236</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1714</meneame:karma>
@@ -395,7 +426,7 @@
 		<meneame:sub>Putas</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>610</meneame:clicks>
+		<meneame:clicks>613</meneame:clicks>
 		<meneame:votes>197</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1302</meneame:karma>
@@ -424,7 +455,7 @@
 		<meneame:votes>238</meneame:votes>
 		<meneame:negatives>3</meneame:negatives>
 		<meneame:karma>1668</meneame:karma>
-		<meneame:comments>25</meneame:comments>
+		<meneame:comments>26</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar?utm_source=meneame_rss</meneame:url>
 		<title>ACO denuncia ante la Fiscalía a Figaredo por un delito de incitación al odio y la violencia al llamar a “cazar” menores migrantes en Ceuta</title>
 		<link>https://www.meneame.net/story/aco-denuncia-ante-fiscalia-figaredo-delito-incitacion-odio-cazar</link>
@@ -475,7 +506,7 @@
 		<meneame:sub>politica</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Bifaz</meneame:user>
-		<meneame:clicks>1891</meneame:clicks>
+		<meneame:clicks>1894</meneame:clicks>
 		<meneame:votes>156</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1226</meneame:karma>
@@ -500,7 +531,7 @@
 		<meneame:sub>Venezuela</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>arllutoquintumi</meneame:user>
-		<meneame:clicks>1454</meneame:clicks>
+		<meneame:clicks>1459</meneame:clicks>
 		<meneame:votes>137</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1054</meneame:karma>
@@ -525,7 +556,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>TheShrike</meneame:user>
-		<meneame:clicks>1777</meneame:clicks>
+		<meneame:clicks>1783</meneame:clicks>
 		<meneame:votes>191</meneame:votes>
 		<meneame:negatives>18</meneame:negatives>
 		<meneame:karma>1325</meneame:karma>
@@ -551,7 +582,7 @@
 		<meneame:sub>cultura</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>benjami</meneame:user>
-		<meneame:clicks>498</meneame:clicks>
+		<meneame:clicks>499</meneame:clicks>
 		<meneame:votes>129</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
 		<meneame:karma>983</meneame:karma>
@@ -576,7 +607,7 @@
 		<meneame:sub>ocio</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Albarkas</meneame:user>
-		<meneame:clicks>2749</meneame:clicks>
+		<meneame:clicks>2754</meneame:clicks>
 		<meneame:votes>215</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1724</meneame:karma>
@@ -599,10 +630,10 @@
 		<meneame:sub>tecnología</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>josde</meneame:user>
-		<meneame:clicks>1671</meneame:clicks>
-		<meneame:votes>102</meneame:votes>
+		<meneame:clicks>1675</meneame:clicks>
+		<meneame:votes>103</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>384</meneame:karma>
+		<meneame:karma>381</meneame:karma>
 		<meneame:comments>38</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/sistema-operativo-gentleos-brinda-nueva-vida-computadoras?utm_source=meneame_rss</meneame:url>
 		<title>El sistema operativo GentleOS le brinda una nueva vida a las computadoras antiguas</title>
@@ -629,10 +660,10 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>JanSmite</meneame:user>
-		<meneame:clicks>496</meneame:clicks>
-		<meneame:votes>232</meneame:votes>
+		<meneame:clicks>498</meneame:clicks>
+		<meneame:votes>233</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1645</meneame:karma>
+		<meneame:karma>1650</meneame:karma>
 		<meneame:comments>29</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/agente-policia-georgia-suspendido-funciones-tras-matar-burrito?utm_source=meneame_rss</meneame:url>
 		<title>Un agente de policía de Georgia, suspendido de sus funciones tras matar al burrito que era la mascota de una familia durante una búsqueda [Ing]</title>
@@ -655,7 +686,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>chikita</meneame:user>
-		<meneame:clicks>888</meneame:clicks>
+		<meneame:clicks>890</meneame:clicks>
 		<meneame:votes>143</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
 		<meneame:karma>1194</meneame:karma>
@@ -682,7 +713,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Enunlugardelamancha</meneame:user>
-		<meneame:clicks>1474</meneame:clicks>
+		<meneame:clicks>1478</meneame:clicks>
 		<meneame:votes>284</meneame:votes>
 		<meneame:negatives>4</meneame:negatives>
 		<meneame:karma>2041</meneame:karma>
@@ -733,7 +764,7 @@
 		<meneame:sub>cultura</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>ccguy</meneame:user>
-		<meneame:clicks>1126</meneame:clicks>
+		<meneame:clicks>1127</meneame:clicks>
 		<meneame:votes>68</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>670</meneame:karma>
@@ -760,7 +791,7 @@
 		<meneame:sub>Artículos</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>livingstone8584</meneame:user>
-		<meneame:clicks>2155</meneame:clicks>
+		<meneame:clicks>2158</meneame:clicks>
 		<meneame:votes>256</meneame:votes>
 		<meneame:negatives>4</meneame:negatives>
 		<meneame:karma>1541</meneame:karma>
@@ -807,7 +838,7 @@
 		<meneame:sub>Ibiza</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1000</meneame:clicks>
+		<meneame:clicks>1001</meneame:clicks>
 		<meneame:votes>267</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>1920</meneame:karma>
@@ -834,7 +865,7 @@
 		<meneame:sub>REINO_UNIDO</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>779</meneame:clicks>
+		<meneame:clicks>780</meneame:clicks>
 		<meneame:votes>220</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
 		<meneame:karma>1506</meneame:karma>
@@ -859,7 +890,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Mauro_Nacho</meneame:user>
-		<meneame:clicks>1513</meneame:clicks>
+		<meneame:clicks>1514</meneame:clicks>
 		<meneame:votes>423</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>2903</meneame:karma>
@@ -884,7 +915,7 @@
 		<meneame:sub>Ecologíaymed</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Pixmac</meneame:user>
-		<meneame:clicks>1717</meneame:clicks>
+		<meneame:clicks>1718</meneame:clicks>
 		<meneame:votes>385</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>2588</meneame:karma>
@@ -912,7 +943,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>YeahYa</meneame:user>
-		<meneame:clicks>4492</meneame:clicks>
+		<meneame:clicks>4498</meneame:clicks>
 		<meneame:votes>460</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
 		<meneame:karma>3513</meneame:karma>
@@ -937,7 +968,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Meneador_Compulsivo</meneame:user>
-		<meneame:clicks>3102</meneame:clicks>
+		<meneame:clicks>3104</meneame:clicks>
 		<meneame:votes>179</meneame:votes>
 		<meneame:negatives>1</meneame:negatives>
 		<meneame:karma>1528</meneame:karma>
@@ -966,7 +997,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Meneador_Compulsivo</meneame:user>
-		<meneame:clicks>2173</meneame:clicks>
+		<meneame:clicks>2176</meneame:clicks>
 		<meneame:votes>316</meneame:votes>
 		<meneame:negatives>2</meneame:negatives>
 		<meneame:karma>2489</meneame:karma>
@@ -992,7 +1023,7 @@
 		<meneame:sub>ccss</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1078</meneame:clicks>
+		<meneame:clicks>1080</meneame:clicks>
 		<meneame:votes>253</meneame:votes>
 		<meneame:negatives>6</meneame:negatives>
 		<meneame:karma>1578</meneame:karma>
@@ -1076,7 +1107,7 @@
 		<meneame:votes>463</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>3164</meneame:karma>
-		<meneame:comments>27</meneame:comments>
+		<meneame:comments>28</meneame:comments>
 		<meneame:url>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia?utm_source=meneame_rss</meneame:url>
 		<title>La Fiscalía denuncia al ultra Alberto Pugilato por incitar al acoso y la violencia hacia Héctor de Miguel, Sarah Santaolalla y Elena Reinés</title>
 		<link>https://www.meneame.net/story/fiscalia-denuncia-ultra-alberto-pugilato-incitar-acoso-violencia</link>
@@ -1179,7 +1210,7 @@
 		<meneame:sub>politica</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>Bifaz</meneame:user>
-		<meneame:clicks>1022</meneame:clicks>
+		<meneame:clicks>1023</meneame:clicks>
 		<meneame:votes>381</meneame:votes>
 		<meneame:negatives>0</meneame:negatives>
 		<meneame:karma>2733</meneame:karma>
@@ -1206,7 +1237,7 @@
 		<meneame:sub>actualidad</meneame:sub>
 		<meneame:status>published</meneame:status>
 		<meneame:user>mis_cojones_en_bata</meneame:user>
-		<meneame:clicks>1263</meneame:clicks>
+		<meneame:clicks>1264</meneame:clicks>
 		<meneame:votes>309</meneame:votes>
 		<meneame:negatives>3</meneame:negatives>
 		<meneame:karma>2251</meneame:karma>
@@ -1311,32 +1342,6 @@
 		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211807.webp?1788162066' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>El video se genera más rápido que lo que se tarda en verlo, lo que permite un canal de televisión infinito. El sistema trata de crear un hilo con cierta coherencia apoyándose en los prompts que los usuarios escriben en el chat. Link directo: <a href="https://levels.io/infinite-slop" title="levels.io/infinite-slop" rel="nofollow">levels.io/infinite-slop</a></p><p><strong>etiquetas</strong>: video, streaming, ai, live, chat</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211807" >noticia original</a> (levels.io)</p>]]></description>
 		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211807.webp?1788162066" width='155' height='155' />
 		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211807</wfw:commentRss>	</item>
-
-	<item>
-		<meneame:link_id>4211781</meneame:link_id>
-		<meneame:sub>Inteligencia</meneame:sub>
-		<meneame:status>published</meneame:status>
-		<meneame:user>Dragstat</meneame:user>
-		<meneame:clicks>1009</meneame:clicks>
-		<meneame:votes>215</meneame:votes>
-		<meneame:negatives>0</meneame:negatives>
-		<meneame:karma>1557</meneame:karma>
-		<meneame:comments>52</meneame:comments>
-		<meneame:url>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta?utm_source=meneame_rss</meneame:url>
-		<title>Un empleado de Microsoft gastó $28.000 en IA en 28 días. Ahora la empresa está vigilando a todos [EN]</title>
-		<link>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta</link>
-		<comments>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta</comments>
-		<pubDate>Mon, 31 Aug 2026 11:25:03 +0000</pubDate>
-		<dc:creator>Dragstat</dc:creator>
-		<category><![CDATA[Inteligencia]]></category>
-		<category><![CDATA[microsoft]]></category>
-		<category><![CDATA[ia]]></category>
-		<category><![CDATA[gasto]]></category>
-		<category><![CDATA[empleado]]></category>
-		<guid>https://www.meneame.net/story/empleado-microsoft-gasto-28-000-ia-28-dias-ahora-empresa-esta</guid>
-		<description><![CDATA[<img src='https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211781.webp?1788156546' width='155' height='155' alt='' class='thumbnail' style='float:right;margin-left: 3px' align='right' hspace='3'/><p>Microsoft se pasó el tiempo diciéndoles a sus ingenieros que utilizaran la IA de forma agresiva, luego llegaron las facturas. Los empleados manipularon los paneles de Copilot mediante “tokenmaxxing”, inflando los costos sin generar resultados, quemando deliberadamente tokens de IA en consultas de bajo valor o completamente inútiles simplemente para ascender en las tablas de clasificación de uso interno.</p><p><strong>etiquetas</strong>: microsoft, ia, gasto, empleado</p><p>&#187;&nbsp;<a href="http://www.meneame.net/go?id=4211781" >noticia original</a> (www.gadgetreview.com)</p>]]></description>
-		<media:thumbnail url="https://cdn.mnmstatic.net/cache/40/44/media_thumb-link-4211781.webp?1788156546" width='155' height='155' />
-		<wfw:commentRss>http://www.meneame.net/comments_rss?id=4211781</wfw:commentRss>	</item>
 
 </channel>
 </rss>
